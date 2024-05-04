@@ -46,7 +46,7 @@ Publications
     <p style="font-size: 15px;">
       <a href="https://arxiv.org/abs/2307.11989" style="color:#3498DB; font-weight: bold; font-size: 16px">Morphology-inspired Unsupervised Gland Segmentation via Selective Semantic Grouping</a><br>
       <strong>Qixiang Zhang</strong>, Yi Li and Xiaomeng Li <br>
-      Medical Image Computing and Computer Assisted Intervention (<strong>MICCAI</strong>), 2023 
+      <em>Medical Image Computing and Computer Assisted Intervention (<strong>MICCAI</strong>), 2023</em>
     </p>
   </div>
 
