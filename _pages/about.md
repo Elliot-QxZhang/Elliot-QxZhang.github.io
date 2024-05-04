@@ -41,7 +41,7 @@ News
 
 Publications
 ------
-* denotes equal contribution
+\* denotes equal contribution
   <div style="display: flex; align-items: center;">
     <img src="/images/2023-miccai-qzhang.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
     <p style="font-size: 15px;">
