@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Qixiang (Elliot), Zhang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -41,6 +41,7 @@ News
 
 Publications
 ------
+* denotes equal contribution
   <div style="display: flex; align-items: center;">
     <img src="/images/2023-miccai-qzhang.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
     <p style="font-size: 15px;">
@@ -51,11 +52,11 @@ Publications
   </div>
 
   <div style="display: flex; align-items: center;">
-    <img src="/images/2023-miccai-qzhang.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
+    <img src="/images/allspark.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
     <p style="font-size: 15px;">
-      <a href="https://arxiv.org/abs/2307.11989" style="color:#3498DB; font-weight: bold; font-size: 16px">Morphology-inspired Unsupervised Gland Segmentation via Selective Semantic Grouping</a><br>
-      <strong>Qixiang Zhang</strong>, Yi Li and Xiaomeng Li <br>
-      <em>Medical Image Computing and Computer Assisted Intervention (<strong>MICCAI</strong>), 2023</em>
+      <a href="https://arxiv.org/abs/2403.01818" style="color:#3498DB; font-weight: bold; font-size: 16px">AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation</a><br>
+      Haonan Wang*, <strong>Qixiang Zhang*</strong>, Yi Li and Xiaomeng Li <br>
+      <em>IEEE / CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024</em>
     </p>
   </div>
 
