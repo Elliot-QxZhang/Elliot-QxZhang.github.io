@@ -100,6 +100,13 @@ Teaching
     <li>[02/2024 - Present] Teaching Assistant @ Introduction to Computer Organization and Design (ELEC2350), HKUST </li>
 </ul>
 
+Professional Activities
+------
+/\*Conference Reviews\*/
+<ul style="width:100%; margin: 0 auto;">
+    <li>Medical Image Computing and Computer Assisted Intervention</li>
+</ul>
+
 Misc.
 ------
 I always admire the saying **"Work Hard (Smart) & Play Hard"**. Outside my research, I love and enjoy all kinds of water sports, e.g., swimming, surfing, and diving, mostly because I once was a professional swimming athlete. I also spent a lot of vacations traveling or volunteering (e.g., Swimming Coach, Beach Lifeguard in Hong Kong, Singapore, Hainan, and Eastern Australia) in other nations, including Germany, Singapore, the USA, and the Netherlands. I plan to engage in photography, which I will use to record my traveling and pieces of my life. Soon, I will keep releasing vlogs on this home page. Overall, I always enjoy trying exciting stuff and meeting interesting souls in my life, after all, "The world is the best gift that God gives us, and Volo Pro Veritas!".
