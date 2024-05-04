@@ -39,6 +39,7 @@ News
 
 
 Publications
+======
 <table>
     <tbody>
      <td><b>/*Journal*/</b>
@@ -47,7 +48,7 @@ Publications
     	<tr>
 <td width="30%">
 <img src="/images/2023-miccai-qzhang.png" style="width:90%;box-shadow: 3px 3px 2px"> 
-            </td>
+</td>
 <td width="65%">
 <p style="color:#3498DB">Morphology-inspired Unsupervised Gland Segmentation via Selective Semantic Grouping</p>
             <p>Qixiang Zhang, Yi Li and Xiaomeng Li</p>
@@ -84,22 +85,8 @@ Wang</p>
         <tr>
     </tbody>
 </table>
-<table>
-<tbody>
-<td><b>/*Conference*/</b>
-	<p></p>
-	</td>
-<tr>
-<td width="30%">
-<img src="https://cdn.jsdelivr.net/gh/Eric-jinkens/img-pic/deepvuler.png" style="width:90%;box-shadow: 3px 3px 2px"> 
-            </td>
-<td width="65%">
-<p style="color:#3498DB">DeepVuler: A Vulnerability Intelligence Mining System for Open-Source Communities</p>
-            <p>Susheng Wu, Bin Chen, MingXu Sun, Renyu Duan, Qixiang Zhang, Cheng Huang</p>
-            <p>IEEE International Conference on Trust, Security and Privacy in Computing and Communications, 2021 <p></td>
-        </tr>
-    </tbody>
-</table>
+
+
 
 Site-wide configuration
 ------
