@@ -12,7 +12,7 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
 My research lies at advancing medical image analysis with AI, with a recent focus on pathology image analysis.
 
 News
-======
+------
 <ul style="overflow:scroll; height:300px; width:100%; margin: 0 auto;">
     <li>[02/2024] One paper accepted by CVPR 2024! </li>
     <li>[08/2023] Join Prof. Xiaomeng Li’s lab at HKUST to pursue my Ph.D. degree. </li>
@@ -40,7 +40,7 @@ News
 
 
 Publications
-======
+------
   <div style="display: flex; align-items: center;">
     <img src="/images/2023-miccai-qzhang.png" alt="Image" style="width: 200px; height: auto; margin-right: 10px;">
     <p style="font-size: 14px;">
