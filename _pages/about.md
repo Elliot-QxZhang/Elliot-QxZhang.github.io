@@ -62,7 +62,7 @@ Publications
 
 ### /\*under review\*/
 <div style="display: flex; align-items: center;">
-  <img src="/images/GlandSAM.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
+  <img src="/images/SD_messenger.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
   <p style="font-size: 15px;">
     <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">S\&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation</a><br>
     <strong>Qixiang Zhang*</strong>, Haonan Wang*, Yi Li and Xiaomeng Li <br>
