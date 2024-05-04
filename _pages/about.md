@@ -89,14 +89,14 @@ Publications
 
 Education
 ------
-<ul style="overflow:scroll; height:300px; width:100%; margin: 0 auto;">
+<ul style="overflow:scroll; width:100%; margin: 0 auto;">
     <li>[08/2023 - Present] PhD Student @ Dept. Electronic and Computer Engineering, HKUST </li>
     <li>[092019 - 06/2023] BEng. of Software Engineering @ Dept. Software, Sichuan University </li>
 </ul>
 
 Teaching
 ------
-<ul style="overflow:scroll; height:300px; width:100%; margin: 0 auto;">
+<ul style="overflow:scroll; width:100%; margin: 0 auto;">
     <li>[02/2024 - Present] Teaching Assistant @ Introduction to Computer Organization and Design (ELEC2350), HKUST </li>
 </ul>
 
