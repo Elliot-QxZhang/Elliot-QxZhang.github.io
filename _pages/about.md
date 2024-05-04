@@ -42,7 +42,7 @@ My research lies at advancing medical image analysis with AI, with a recent focu
 \* denotes equal contribution
   <div style="display: flex; align-items: center;padding-bottom: 10px;">
     <img src="/images/2023-miccai-qzhang.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
-    <p style="font-size: 15px;">
+    <p style="font-size: 15px;text-align: justify">
       <a href="https://arxiv.org/abs/2307.11989" style="color:#3498DB; font-weight: bold; font-size: 16px">Morphology-inspired Unsupervised Gland Segmentation via Selective Semantic Grouping</a><br>
       <strong>Qixiang Zhang</strong>, Yi Li and Xiaomeng Li <br>
       <em>Medical Image Computing and Computer Assisted Intervention (<strong>MICCAI</strong>), 2023</em>
@@ -51,7 +51,7 @@ My research lies at advancing medical image analysis with AI, with a recent focu
 
   <div style="display: flex; align-items: center;padding-bottom: 20px;">
     <img src="/images/allspark.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
-    <p style="font-size: 15px;">
+    <p style="font-size: 15px;text-align: justify">
       <a href="https://arxiv.org/abs/2403.01818" style="color:#3498DB; font-weight: bold; font-size: 16px">AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation</a><br>
       Haonan Wang*, <strong>Qixiang Zhang*</strong>, Yi Li and Xiaomeng Li <br>
       <em>IEEE / CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024</em>
@@ -61,7 +61,7 @@ My research lies at advancing medical image analysis with AI, with a recent focu
 ### /\*under review\*/
 <div style="display: flex; align-items: center;padding-bottom: 20px;">
   <img src="/images/SD_messenger.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
-  <p style="font-size: 15px;">
+  <p style="font-size: 15px;text-align: justify">
     <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">S&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation</a><br>
     <strong>Qixiang Zhang*</strong>, Haonan Wang*, Yi Li and Xiaomeng Li <br>
     <em>Submitted to European Conference on Computer Vision (<strong>ECCV</strong>), 2024</em>
@@ -70,7 +70,7 @@ My research lies at advancing medical image analysis with AI, with a recent focu
 
 <div style="display: flex; align-items: center;padding-bottom: 20px;">
   <img src="/images/GlandSAM.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
-  <p style="font-size: 15px;">
+  <p style="font-size: 15px;text-align: justify">
     <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">GlandSAM: Injecting Morphology Knowledge into Segment Anything Model for Label-free Gland Segmentation</a><br>
     <strong>Qixiang Zhang</strong>, Yi Li and Xiaomeng Li <br>
     <em>Submitted to IEEE Transactions on Medical Imaging (<strong>TMI</strong>)</em>
@@ -79,7 +79,7 @@ My research lies at advancing medical image analysis with AI, with a recent focu
 
 <div style="display: flex; align-items: center;padding-bottom: 20px;">
     <img src="/images/DTSC.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
-    <p style="font-size: 15px;">
+    <p style="font-size: 15px;text-align: justify">
       <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">Judge Like a Real Doctor: Dual Teacher Sample Consistency Framework for Semi-supervised Medical Image Classification</a><br>
       <strong>Qixiang Zhang</strong>, Zhengyang Jiao and Yan Wang <br>
       <em>Submitted to IEEE Transactions on Medical Imaging (<strong>TMI</strong>)</em>
