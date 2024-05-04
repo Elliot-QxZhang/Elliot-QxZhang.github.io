@@ -61,7 +61,32 @@ Publications
   </div>
 
 ### /\*under review\*/
+<div style="display: flex; align-items: center;">
+  <img src="/images/GlandSAM.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
+  <p style="font-size: 15px;">
+    <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">S\&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation</a><br>
+    <strong>Qixiang Zhang*</strong>, Haonan Wang*, Yi Li and Xiaomeng Li <br>
+    <em>Submitted to European Conference on Computer Vision (<strong>ECCV</strong>), 2024</em>
+  </p>
+</div>
 
+<div style="display: flex; align-items: center;">
+  <img src="/images/GlandSAM.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
+  <p style="font-size: 15px;">
+    <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">GlandSAM: Injecting Morphology Knowledge into Segment Anything Model for Label-free Gland Segmentation</a><br>
+    <strong>Qixiang Zhang</strong>, Yi Li and Xiaomeng Li <br>
+    <em>Submitted to IEEE Transactions on Medical Imaging (<strong>TMI</strong>)</em>
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="/images/DTSC.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
+    <p style="font-size: 15px;">
+      <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">Judge Like a Real Doctor: Dual Teacher Sample Consistency Framework for Semi-supervised Medical Image Classification</a><br>
+      <strong>Qixiang Zhang</strong>, Zhengyang Jiao and Yan Wang <br>
+      <em>Submitted to IEEE Transactions on Medical Imaging (<strong>TMI</strong>)</em>
+    </p>
+</div>
 
 
 Site-wide configuration
