@@ -11,7 +11,7 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
 
 My research lies at advancing medical image analysis with AI, with a recent focus on pathology image analysis.
 
-News
+🔥News
 ------
 <ul style="overflow:scroll; height:300px; width:100%; margin: 0 auto;">
     <li>[02/2024] One paper accepted by CVPR 2024! </li>
@@ -37,7 +37,7 @@ News
     <li>[02/2019] Glad to be awardee of outstanding student of Sichuan and Comprehensive First-class scholarship</li>
 </ul>
 
-Publications
+📖Publications
 ------
 \* denotes equal contribution
   <div style="display: flex; align-items: center;padding-bottom: 10px;">
@@ -87,20 +87,20 @@ Publications
 </div>
 
 
-Education
+🏫Education
 ------
 <ul style="width:100%; margin: 0 auto;">
     <li>[08/2023 - Present] PhD Student @ Dept. Electronic and Computer Engineering, HKUST </li>
     <li>[092019 - 06/2023] BEng. of Software Engineering @ Dept. Software, Sichuan University </li>
 </ul>
 
-Teaching
+🧑‍🏫Teaching
 ------
 <ul style="width:100%; margin: 0 auto;">
     <li>[02/2024 - Present] Teaching Assistant @ Introduction to Computer Organization and Design (ELEC2350), HKUST </li>
 </ul>
 
-Professional Activities
+👨‍🔬Professional Activities
 ------
 /\*Conference Reviews\*/
 <ul style="width:100%; margin: 0 auto;">
