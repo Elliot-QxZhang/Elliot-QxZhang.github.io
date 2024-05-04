@@ -1,19 +1,39 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a year-1 PhD Student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/zh-hans) under the supervision of [Prof. Xiaomeng Li](https://xmengli.github.io/). Previously, I was fortunate to work with [Prof. Yan Wang](https://cs.scu.edu.cn/info/1075/8235.htm) at Sichuan University as an undergraduate research intern.
 
-A data-driven personal website
+My research lies at advancing medical image analysis with AI, with a recent focus on pathology image analysis.
+
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<ul style="overflow:scroll; height:300px; width:100%; margin: 0 auto;">
+    <li>[11/2022] One paper on unsupervised domain adaptation accepted by TNNLS!</li>
+    <li>[11/2022] Accepting official offer letter from HKUST, preparing for PhD career in HKUST!</li>
+    <li>[10/2022] Finished HK PolyU Research Summer Workshop and won the scholarship!</li>
+    <li>[09/2022] Join HK PolyU Research Summer Workshop, moving to Hong Kong</li>
+    <li>[06/2022] Glad to be awardee of ZiLi-Zhi Dong First-class Scolarship. Thank you, Mr. Liu and Mr Zhu!</li>
+    <li>[02/2022] One paper on semi-supervised classification accepted by TNNLS!</li>
+    <li>[12/2021] Successfully finished CSITP on "RoboDentist" and got rated as Excellent</li>
+    <li>[12/2021] Successfully finished CSITP on Knowledge Graph and got rated as Good</li>
+    <li>[10/2021] Glad to receive the prize from NUS Summer Workshop (overall performance A Plus). Thank you, NUS! Moving back to Sichuan!</li>
+    <li>[10/2021] Won the First Prize of NUS SoC Summer Workshop! Nice working with you, B. H and S. F!</li>
+    <li>[06/2021] Moved to Singapore and joined NUS SoC Summer Workshop!</li>
+    <li>[06/2021] Our Brain Disease Knowledge Graph got rated as provincial level College Student Innovative Training Project</li>
+    <li>[06/2021] Our startup "RoboDentist" got rated as national level College Student Innovative Training Project</li>
+    <li>[04/2020] Pass the qualification interview of NUS SoC Summer Workshop and Scholarship. Thank you, SCU!</li>
+    <li>[12/2020] Successfully finished CSITP and got rated as Excellent</li>
+    <li>[12/2020] One paper on vulnerability mining accepted by TrustCom 2021!</li>
+    <li>[06/2020] Our startup "DeepVuler" was rated as national level College Student Innovative Training Project</li>
+    <li>[09/2019] Changing major to Software Engineering!</li>
+    <li>[02/2019] Glad to be awardee of outstanding student of Sichuan and Comprehensive First-class scholarship</li>
+</ul>
 
 Getting started
 ======
