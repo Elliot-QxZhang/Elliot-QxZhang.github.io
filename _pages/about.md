@@ -13,7 +13,7 @@ My research lies at advancing medical image analysis with AI, with a recent focu
 
 🔥News
 ------
-<ul style="overflow:scroll; height:300px; width:100%; margin: 0 auto;">
+<ul style="overflow:scroll; height:200px; width:100%; margin: 0 auto;">
     <li>[02/2024] One paper accepted by CVPR 2024! </li>
     <li>[08/2023] Join Prof. Xiaomeng Li’s lab at HKUST to pursue my Ph.D. degree. </li>
     <li>[07/2023] Glad to be an awardee of the HKUST RedBird PhD Recruitment Award. Thank you, HKUST!</li>
