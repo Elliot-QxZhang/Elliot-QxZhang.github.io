@@ -42,7 +42,6 @@ News
 Publications
 ======
 <table frame=void>
-    <tbody>
 <tr>
 <td width="30%">
 <img src="/images/2023-miccai-qzhang.png" style="width:90%;box-shadow: 3px 3px 2px"> 
@@ -53,7 +52,6 @@ Publications
             <p>MICCAI 2023</p>
 </td>
  </tr>
-</tbody>
 </table>
 
 
