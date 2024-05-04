@@ -1,22 +1,19 @@
 # main links links
 main:
+  - title: "News"
+    url: https://elliot-qxzhang.github.io/
+    
   - title: "Publications"
-    url: /publications/
+    url: https://elliot-qxzhang.github.io/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Education"
+    url: https://elliot-qxzhang.github.io/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://elliot-qxzhang.github.io/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Professional Activities"
+    url: https://elliot-qxzhang.github.io/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Misc."
+    url: https://elliot-qxzhang.github.io/
