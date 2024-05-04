@@ -14,12 +14,14 @@ My research lies at advancing medical image analysis with AI, with a recent focu
 News
 ======
 <ul style="overflow:scroll; height:300px; width:100%; margin: 0 auto;">
-    <li>[11/2022] One paper on unsupervised domain adaptation accepted by TNNLS!</li>
+    <li>[02/2024] One paper accepted by CVPR 2024! </li>
+    <li>[08/2023] Join Prof. Xiaomeng Li’s lab at HKUST to pursue my Ph.D. degree. </li>
+    <li>[07/2023] Glad to be an awardee of the HKUST RedBird PhD Recruitment Award. Thank you, HKUST!</li>
+    <li>[06/2023] One paper accepted by MICCAI 2023!</li>
     <li>[11/2022] Accepting official offer letter from HKUST, preparing for PhD career in HKUST!</li>
     <li>[10/2022] Finished HK PolyU Research Summer Workshop and won the scholarship!</li>
     <li>[09/2022] Join HK PolyU Research Summer Workshop, moving to Hong Kong</li>
-    <li>[06/2022] Glad to be awardee of ZiLi-Zhi Dong First-class Scolarship. Thank you, Mr. Liu and Mr Zhu!</li>
-    <li>[02/2022] One paper on semi-supervised classification accepted by TNNLS!</li>
+    <li>[06/2022] Glad to be an awardee of ZiLi-Zhi Dong First-class Scolarship. Thank you, Mr. Liu and Mr Zhu!</li>
     <li>[12/2021] Successfully finished CSITP on "RoboDentist" and got rated as Excellent</li>
     <li>[12/2021] Successfully finished CSITP on Knowledge Graph and got rated as Good</li>
     <li>[10/2021] Glad to receive the prize from NUS Summer Workshop (overall performance A Plus). Thank you, NUS! Moving back to Sichuan!</li>
@@ -35,14 +37,70 @@ News
     <li>[02/2019] Glad to be awardee of outstanding student of Sichuan and Comprehensive First-class scholarship</li>
 </ul>
 
-Getting started
+
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<table>
+    <tbody>
+     <td><b>/*Journal*/</b>
+	<p></p>
+	</td>
+    	<tr>
+        	<td width="30%">
+<img src="/images/2023-miccai-qzhang.png" style="width:90%;box-shadow: 3px 3px 2px"> 
+            </td>
+<td width="65%">
+<p style="color:#3498DB">Morphology-inspired Unsupervised Gland Segmentation via Selective Semantic Grouping</p>
+            <p>Qixiang Zhang, Yi Li and Xiaomeng Li</p>
+            <p>MICCAI 2023<p></td>
+        </tr>
+        <tr>
+        	<td width="30%">
+<img src="https://cdn.jsdelivr.net/gh/Eric-jinkens/img-pic/DTSC.png" style="width:90%;box-shadow: 3px 3px 2px"> 
+            </td>
+<td width="65%">
+<p style="color:#3498DB">Judge Like a Real Doctor: Dual Teacher Sample Consistency Framework for Semi-supervised Medical Image Classification</p>
+            <p>Qixiang Zhang, Chen Zu, Jianjia Zhang, Zhengyang Jiao, Xi Wu, Jiliu Zhou, Yan Wang</p>
+            <p>IEEE Transactions on Neural Networks and Learning Systems, 2021 (IF 14.255)<p></td>
+        </tr>
+        <tr>
+        	<td width="30%">
+<img src="https://cdn.jsdelivr.net/gh/Eric-jinkens/img-pic/MPTL.png" style="width:90%;box-shadow: 3px 3px 2px"> 
+            </td>
+<td width="65%">
+<p style="color:#3498DB">Multi-level Progressive Transfer Learning for Cervical Cancer Dose Prediction</p>
+            <p>Jie Zeng, Jianghong Xiao, Qixiang Zhang, Chongyang Cao, Chen Zu, Xi Wu, Jiliu Zhou, Xingchen Peng and Yan
+Wang</p>
+            <p>IEEE Transactions on Neural Networks and Learning Systems, 2021 (IF 14.255)<p></td>
+        </tr>
+        <tr>
+        	<td width="30%">
+<img src="https://cdn.jsdelivr.net/gh/Eric-jinkens/img-pic/SCLUE.png" style="width:90%;box-shadow: 3px 3px 2px"> 
+            </td>
+<td width="65%">
+<p style="color:#3498DB">Facial Expression Recognition with Supervised Contrastive Learning and Uncertainty Estimation</p>
+            <p>Lin Hu, Yujie Yang, Chen Zu, Qixiang Zhang, Wu Xi, Jiliu Zhou and Yan Wang</p>
+            <p>IEEE Signal Processing Letters, 2021 (IF 3.210)<p></td>
+        </tr>
+        <tr>
+    </tbody>
+</table>
+<table>
+<tbody>
+<td><b>/*Conference*/</b>
+	<p></p>
+	</td>
+<tr>
+<td width="30%">
+<img src="https://cdn.jsdelivr.net/gh/Eric-jinkens/img-pic/deepvuler.png" style="width:90%;box-shadow: 3px 3px 2px"> 
+            </td>
+<td width="65%">
+<p style="color:#3498DB">DeepVuler: A Vulnerability Intelligence Mining System for Open-Source Communities</p>
+            <p>Susheng Wu, Bin Chen, MingXu Sun, Renyu Duan, Qixiang Zhang, Cheng Huang</p>
+            <p>IEEE International Conference on Trust, Security and Privacy in Computing and Communications, 2021 <p></td>
+        </tr>
+    </tbody>
+</table>
 
 Site-wide configuration
 ------
