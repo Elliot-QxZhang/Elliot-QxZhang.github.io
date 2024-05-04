@@ -41,18 +41,22 @@ News
 
 Publications
 ======
-<table frame=void>
-<tr>
-<td width="30%">
-<img src="/images/2023-miccai-qzhang.png" style="width:90%;box-shadow: 3px 3px 2px"> 
-</td>
-<td width="65%">
-<p style="color:#3498DB">Morphology-inspired Unsupervised Gland Segmentation via Selective Semantic Grouping</p>
-            <p>Qixiang Zhang, Yi Li and Xiaomeng Li</p>
-            <p>MICCAI 2023</p>
-</td>
- </tr>
-</table>
+<div class="paper-box"><div class="paper-box-image" style="text-align:center"><div><div class="badge" background-color="000000">CVPR 2024</div><a href="images/allspark.jpg" class="image-popup"><img src="/images/2023-miccai-qzhang.png" alt="allspark" width="60%"></a><a href="images/allspark.png" class="image-popup"><img src="images/allspark.png" alt="allspark_framework" width="100%"></a></div></div>
+<div class="paper-box-text" style="font-size:14px">
+
+    <p><a href="https://arxiv.org/abs/2403.01818"><strong><em>AllSpark</em>: Reborn Labeled Features from Unlabeled in Transformer for
+Semi-Supervised Semantic Segmentation</strong></a> <!--<span class='show_paper_citations' data='KDNRnW0AAAAJ:u-x6o8ySG0sC'></span>--> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/AllSpark?style=social"></p>
+
+    <div style="font-size:13px">
+      <p><em>IEEE / CVF Conference on Computer Vision and Pattern Recognition</em> (<strong><em>CVPR</em></strong>), 2024</p>
+
+      <p><strong>Haonan Wang</strong> <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-2-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msup><mi></mi><mo>&amp;#x2020;</mo></msup></math>" role="presentation" style="font-size: 122%; position: relative;"><span id="MJXc-Node-6" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-7" class="mjx-mrow"><span id="MJXc-Node-8" class="mjx-msubsup"><span class="mjx-base"><span id="MJXc-Node-9" class="mjx-mi"><span class="mjx-char"></span></span></span><span class="mjx-sup" style="font-size: 70.7%; vertical-align: 0.513em; padding-left: 0px; padding-right: 0.071em;"><span id="MJXc-Node-10" class="mjx-mo" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.581em;">†</span></span></span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi></mi><mo>†</mo></msup></math></span></span><script type="math/tex" id="MathJax-Element-2">^\dagger</script>, Qixiang Zhang <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-3-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msup><mi></mi><mo>&amp;#x2020;</mo></msup></math>" role="presentation" style="font-size: 122%; position: relative;"><span id="MJXc-Node-11" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-12" class="mjx-mrow"><span id="MJXc-Node-13" class="mjx-msubsup"><span class="mjx-base"><span id="MJXc-Node-14" class="mjx-mi"><span class="mjx-char"></span></span></span><span class="mjx-sup" style="font-size: 70.7%; vertical-align: 0.513em; padding-left: 0px; padding-right: 0.071em;"><span id="MJXc-Node-15" class="mjx-mo" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.581em;">†</span></span></span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi></mi><mo>†</mo></msup></math></span></span><script type="math/tex" id="MathJax-Element-3">^\dagger</script>, Yi Li, Xiaomeng Li</p>
+
+      <p><a href="https://github.com/xmed-lab/AllSpark"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt=""></a></p>
+
+    </div>
+  </div>
+</div>
 
 
 
