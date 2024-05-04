@@ -13,7 +13,7 @@ My research lies at advancing medical image analysis with AI, with a recent focu
 
 🔥News
 ------
-<ul style="overflow:scroll; height:200px; width:100%; margin: 0 auto;">
+<ul style="overflow:scroll; height:200px; width:100%; margin: 0 auto;font-size: 20px">
     <li>[02/2024] One paper accepted by CVPR 2024! </li>
     <li>[08/2023] Join Prof. Xiaomeng Li’s lab at HKUST to pursue my Ph.D. degree. </li>
     <li>[07/2023] Glad to be an awardee of the HKUST RedBird PhD Recruitment Award. Thank you, HKUST!</li>
@@ -45,7 +45,7 @@ My research lies at advancing medical image analysis with AI, with a recent focu
     <p style="font-size: 15px;text-align: justify">
       <a href="https://arxiv.org/abs/2307.11989" style="color:#3498DB; font-weight: bold; font-size: 16px">Morphology-inspired Unsupervised Gland Segmentation via Selective Semantic Grouping</a><br>
       <strong>Qixiang Zhang</strong>, Yi Li and Xiaomeng Li <br>
-      <em>Medical Image Computing and Computer Assisted Intervention (<strong>MICCAI</strong>), 2023</em>
+      <em>Medical Image Computing & Computer Assisted Intervention (<strong>MICCAI</strong>), 2023</em>
     </p>
   </div>
 
@@ -54,7 +54,7 @@ My research lies at advancing medical image analysis with AI, with a recent focu
     <p style="font-size: 15px;text-align: justify">
       <a href="https://arxiv.org/abs/2403.01818" style="color:#3498DB; font-weight: bold; font-size: 16px">AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation</a><br>
       Haonan Wang*, <strong>Qixiang Zhang*</strong>, Yi Li and Xiaomeng Li <br>
-      <em>IEEE / CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024</em>
+      <em>IEEE / CVF Conference on Computer Vision & Pattern Recognition (<strong>CVPR</strong>), 2024</em>
     </p>
   </div>
 
