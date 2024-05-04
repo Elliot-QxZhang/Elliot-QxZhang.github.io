@@ -109,4 +109,6 @@ My research lies at advancing medical image analysis with AI, with a recent focu
 
 Misc.
 ------
+<p style="text-align: justify">
 I always admire the saying **"Work Hard (Smart) & Play Hard"**. Outside my research, I love and enjoy all kinds of water sports, e.g., swimming, surfing, and diving, mostly because I once was a professional swimming athlete. I also spent a lot of vacations traveling or volunteering (e.g., Swimming Coach, Beach Lifeguard in Hong Kong, Singapore, Hainan, and Eastern Australia) in other nations, including Germany, Singapore, the USA, and the Netherlands. I plan to engage in photography, which I will use to record my traveling and pieces of my life. Soon, I will keep releasing vlogs on this home page. Overall, I always enjoy trying exciting stuff and meeting interesting souls in my life, after all, "The world is the best gift that God gives us, and Volo Pro Veritas!".
+<\p>
