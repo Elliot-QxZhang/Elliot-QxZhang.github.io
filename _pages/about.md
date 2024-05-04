@@ -54,7 +54,7 @@ My research lies at advancing medical image analysis with AI, with a recent focu
     <p style="font-size: 15px;text-align: justify">
       <a href="https://arxiv.org/abs/2403.01818" style="color:#3498DB; font-weight: bold; font-size: 16px">AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation</a><br>
       Haonan Wang*, <strong>Qixiang Zhang*</strong>, Yi Li and Xiaomeng Li <br>
-      <em>IEEE/CVF Conference on Computer Vision & Pattern Recognition (<strong>CVPR</strong>), 2024</em>
+      <em>IEEE/CVF Conf. on Computer Vision & Pattern Recognition (<strong>CVPR</strong>), 2024</em>
     </p>
   </div>
 
