@@ -41,7 +41,7 @@ News
 
 Publications
 ======
-<table>
+<table frame=void>
     <tbody>
 <tr>
 <td width="30%">
