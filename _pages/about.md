@@ -43,7 +43,9 @@ Publications
 ======
   <div style="display: flex; align-items: center;">
     <img src="/images/2023-miccai-qzhang.png" alt="Image" style="width: 200px; height: auto; margin-right: 10px;">
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum mauris eget est vestibulum, eu scelerisque est euismod.</p>
+    <p style="color:#3498DB">Morphology-inspired Unsupervised Gland Segmentation via Selective Semantic Grouping</p>
+            <p>Qixiang Zhang, Yi Li and Xiaomeng Li</p>
+            <p>Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023<p>
   </div>
 
 
