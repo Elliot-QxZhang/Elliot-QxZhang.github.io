@@ -42,10 +42,7 @@ Publications
 ======
 <table>
     <tbody>
-     <td><b>/*Journal*/</b>
-	<p></p>
-	</td>
-    	<tr>
+<tr>
 <td width="30%">
 <img src="/images/2023-miccai-qzhang.png" style="width:90%;box-shadow: 3px 3px 2px"> 
 </td>
@@ -54,6 +51,7 @@ Publications
             <p>Qixiang Zhang, Yi Li and Xiaomeng Li</p>
             <p>MICCAI 2023<p></td>
         </tr>
+	    
         <tr>
         	<td width="30%">
 <img src="https://cdn.jsdelivr.net/gh/Eric-jinkens/img-pic/DTSC.png" style="width:90%;box-shadow: 3px 3px 2px"> 
@@ -63,6 +61,7 @@ Publications
             <p>Qixiang Zhang, Chen Zu, Jianjia Zhang, Zhengyang Jiao, Xi Wu, Jiliu Zhou, Yan Wang</p>
             <p>IEEE Transactions on Neural Networks and Learning Systems, 2021 (IF 14.255)<p></td>
         </tr>
+	    
         <tr>
         	<td width="30%">
 <img src="https://cdn.jsdelivr.net/gh/Eric-jinkens/img-pic/MPTL.png" style="width:90%;box-shadow: 3px 3px 2px"> 
@@ -73,6 +72,7 @@ Publications
 Wang</p>
             <p>IEEE Transactions on Neural Networks and Learning Systems, 2021 (IF 14.255)<p></td>
         </tr>
+	    
         <tr>
         	<td width="30%">
 <img src="https://cdn.jsdelivr.net/gh/Eric-jinkens/img-pic/SCLUE.png" style="width:90%;box-shadow: 3px 3px 2px"> 
@@ -82,7 +82,6 @@ Wang</p>
             <p>Lin Hu, Yujie Yang, Chen Zu, Qixiang Zhang, Wu Xi, Jiliu Zhou and Yan Wang</p>
             <p>IEEE Signal Processing Letters, 2021 (IF 3.210)<p></td>
         </tr>
-        <tr>
     </tbody>
 </table>
 
