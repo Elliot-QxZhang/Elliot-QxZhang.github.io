@@ -49,40 +49,10 @@ Publications
 <td width="65%">
 <p style="color:#3498DB">Morphology-inspired Unsupervised Gland Segmentation via Selective Semantic Grouping</p>
             <p>Qixiang Zhang, Yi Li and Xiaomeng Li</p>
-            <p>MICCAI 2023<p></td>
-        </tr>
-	    
-        <tr>
-        	<td width="30%">
-<img src="https://cdn.jsdelivr.net/gh/Eric-jinkens/img-pic/DTSC.png" style="width:90%;box-shadow: 3px 3px 2px"> 
-            </td>
-<td width="65%">
-<p style="color:#3498DB">Judge Like a Real Doctor: Dual Teacher Sample Consistency Framework for Semi-supervised Medical Image Classification</p>
-            <p>Qixiang Zhang, Chen Zu, Jianjia Zhang, Zhengyang Jiao, Xi Wu, Jiliu Zhou, Yan Wang</p>
-            <p>IEEE Transactions on Neural Networks and Learning Systems, 2021 (IF 14.255)<p></td>
-        </tr>
-	    
-        <tr>
-        	<td width="30%">
-<img src="https://cdn.jsdelivr.net/gh/Eric-jinkens/img-pic/MPTL.png" style="width:90%;box-shadow: 3px 3px 2px"> 
-            </td>
-<td width="65%">
-<p style="color:#3498DB">Multi-level Progressive Transfer Learning for Cervical Cancer Dose Prediction</p>
-            <p>Jie Zeng, Jianghong Xiao, Qixiang Zhang, Chongyang Cao, Chen Zu, Xi Wu, Jiliu Zhou, Xingchen Peng and Yan
-Wang</p>
-            <p>IEEE Transactions on Neural Networks and Learning Systems, 2021 (IF 14.255)<p></td>
-        </tr>
-	    
-        <tr>
-        	<td width="30%">
-<img src="https://cdn.jsdelivr.net/gh/Eric-jinkens/img-pic/SCLUE.png" style="width:90%;box-shadow: 3px 3px 2px"> 
-            </td>
-<td width="65%">
-<p style="color:#3498DB">Facial Expression Recognition with Supervised Contrastive Learning and Uncertainty Estimation</p>
-            <p>Lin Hu, Yujie Yang, Chen Zu, Qixiang Zhang, Wu Xi, Jiliu Zhou and Yan Wang</p>
-            <p>IEEE Signal Processing Letters, 2021 (IF 3.210)<p></td>
-        </tr>
-    </tbody>
+            <p>MICCAI 2023</p>
+</td>
+ </tr>
+</tbody>
 </table>
 
 
