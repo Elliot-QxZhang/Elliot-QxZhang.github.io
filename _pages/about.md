@@ -62,7 +62,7 @@ My research lies at advancing medical image analysis with AI, with a recent focu
 <div style="display: flex; align-items: center;padding-bottom: 20px;">
   <img src="/images/SD_messenger.png" alt="Image" style="width: 250px; height: auto; margin-right: 15px;">
   <p style="font-size: 15px;">
-    <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">S\&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation</a><br>
+    <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">S&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation</a><br>
     <strong>Qixiang Zhang*</strong>, Haonan Wang*, Yi Li and Xiaomeng Li <br>
     <em>Submitted to European Conference on Computer Vision (<strong>ECCV</strong>), 2024</em>
   </p>
