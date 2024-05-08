@@ -34,7 +34,7 @@ My research lies at advancing medical image analysis with AI, with a recent focu
     <li>[12/2020] One paper on vulnerability mining accepted by TrustCom 2021!</li>
     <li>[06/2020] Our startup "DeepVuler" was rated as national level College Student Innovative Training Project</li>
     <li>[09/2019] Changing major to Software Engineering!</li>
-    <li>[02/2019] Glad to be awardee of outstanding student of Sichuan and Comprehensive First-class scholarship</li>
+    <li>[02/2019] Glad to be the awardee of outstanding student of Sichuan and Comprehensive First-class scholarship</li>
 </ul>
 
 📖Publications
@@ -91,7 +91,7 @@ My research lies at advancing medical image analysis with AI, with a recent focu
 ------
 <ul style="width:100%; margin: 0 auto;">
     <li>[08/2023 - Present] PhD Student @ Dept. Electronic and Computer Engineering, HKUST </li>
-    <li>[092019 - 06/2023] BEng. of Software Engineering @ Dept. Software, Sichuan University </li>
+    <li>[09/2019 - 06/2023] BEng. of Software Engineering @ Dept. Software, Sichuan University </li>
 </ul>
 
 🧑‍🏫Teaching
@@ -111,4 +111,4 @@ Misc.
 ------
 <p style="text-align: justify">
 I always admire the saying "Work Hard (Smart) & Play Hard". Outside my research, I love and enjoy all kinds of water sports, e.g., swimming, surfing, and diving, mostly because I once was a professional swimming athlete. I also spent a lot of vacations traveling or volunteering (e.g., Swimming Coach, Beach Lifeguard in Hong Kong, Singapore, Hainan, and Eastern Australia) in other nations, including Germany, Singapore, the USA, and the Netherlands. I plan to engage in photography, which I will use to record my traveling and pieces of my life. Soon, I will keep releasing vlogs on this home page. Overall, I always enjoy trying exciting stuff and meeting interesting souls in my life, after all, "The world is the best gift that God gives us, and Volo Pro Veritas!".
-<\p>
+</p>
