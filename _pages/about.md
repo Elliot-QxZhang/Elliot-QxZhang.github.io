@@ -41,7 +41,7 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
 ------
 \* denotes equal contribution
   <div style="display: flex; align-items: center;padding-bottom: 10px;">
-    <img src="/images/2023-miccai-qzhang.png" alt="Image" style="width: 150px; height: 200px; margin-right: 15px;">
+    <img src="/images/2023-miccai-qzhang.png" alt="Image" style="width: 150px; height: 100px; margin-right: 15px;">
     <p style="font-size: 15px;text-align: justify">
       <a href="https://arxiv.org/abs/2307.11989" style="color:#3498DB; font-weight: bold; font-size: 16px">Morphology-inspired Unsupervised Gland Segmentation via Selective Semantic Grouping</a><br>
       <strong>Qixiang Zhang</strong>, Yi Li and Xiaomeng Li <br>
@@ -50,7 +50,7 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
   </div>
 
   <div style="display: flex; align-items: center;padding-bottom: 20px;">
-    <img src="/images/allspark.png" alt="Image" style="width: 150px; height: 200px; margin-right: 15px;">
+    <img src="/images/allspark.png" alt="Image" style="width: 150px; height: 100px; margin-right: 15px;">
     <p style="font-size: 15px;text-align: justify">
       <a href="https://arxiv.org/abs/2403.01818" style="color:#3498DB; font-weight: bold; font-size: 16px">AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation</a><br>
       Haonan Wang*, <strong>Qixiang Zhang*</strong>, Yi Li and Xiaomeng Li <br>
@@ -60,7 +60,7 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
 
 ### /\*under review\*/
 <div style="display: flex; align-items: center;padding-bottom: 20px;">
-  <img src="/images/SD_messenger.png" alt="Image" style="width: 150px; height: 200px: auto; margin-right: 15px;">
+  <img src="/images/SD_messenger.png" alt="Image" style="width: 150px; height: 100px: auto; margin-right: 15px;">
   <p style="font-size: 15px;text-align: justify">
     <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">S&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation</a><br>
     <strong>Qixiang Zhang*</strong>, Haonan Wang*, Yi Li and Xiaomeng Li <br>
@@ -69,7 +69,7 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
 </div>
 
 <div style="display: flex; align-items: center;padding-bottom: 20px;">
-  <img src="/images/GlandSAM.png" alt="Image" style="width: 150px; height: 200px; margin-right: 15px;">
+  <img src="/images/GlandSAM.png" alt="Image" style="width: 150px; height: 100px; margin-right: 15px;">
   <p style="font-size: 15px;text-align: justify">
     <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">GlandSAM: Injecting Morphology Knowledge into Segment Anything Model for Label-free Gland Segmentation</a><br>
     <strong>Qixiang Zhang</strong>, Yi Li and Xiaomeng Li <br>
@@ -78,7 +78,7 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
 </div>
 
 <div style="display: flex; align-items: center;padding-bottom: 20px;">
-    <img src="/images/DTSC.png" alt="Image" style="width: 150px; height: 200px; margin-right: 15px;">
+    <img src="/images/DTSC.png" alt="Image" style="width: 150px; height: 100px; margin-right: 15px;">
     <p style="font-size: 15px;text-align: justify">
       <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">Judge Like a Real Doctor: Dual Teacher Sample Consistency Framework for Semi-supervised Medical Image Classification</a><br>
       <strong>Qixiang Zhang</strong>, Zhengyang Jiao and Yan Wang <br>
