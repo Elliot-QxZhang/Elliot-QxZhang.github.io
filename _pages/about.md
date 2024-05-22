@@ -104,11 +104,11 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
 ------
 /\*Conference Reviews\*/
 <ul style="width:100%; margin: 0 auto;">
-    <li>Medical Image Computing and Computer Assisted Intervention</li>
+    <li>Medical Image Computing and Computer Assisted Intervention (MICCAI)</li>
 </ul>
 /\*Journal Reviews\*/
 <ul style="width:100%; margin: 0 auto;">
-    <li>IEEE Transactions on Neural Networks and Learning Systems</li>
+    <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
 </ul>
 
 Misc.
