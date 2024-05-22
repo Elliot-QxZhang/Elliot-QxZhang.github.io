@@ -110,6 +110,7 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
 <ul style="width:100%; margin: 0 auto;">
     <li>IEEE Transactions on Neural Networks and Learning Systems</li>
 </ul>
+
 Misc.
 ------
 <p style="text-align: justify">
