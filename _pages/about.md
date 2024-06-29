@@ -40,12 +40,22 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
 📖Publications
 ------
 \* denotes equal contribution
+
   <div style="display: flex; align-items: center;padding-bottom: 10px;">
     <img src="/images/2023-miccai-qzhang.png" alt="Image" style="width: 150px; height: 100px; margin-right: 15px;">
     <p style="font-size: 15px;text-align: justify">
       <a href="https://arxiv.org/abs/2307.11989" style="color:#3498DB; font-weight: bold; font-size: 16px">Morphology-inspired Unsupervised Gland Segmentation via Selective Semantic Grouping</a><br>
       <strong>Qixiang Zhang</strong>, Yi Li and Xiaomeng Li <br>
       <em>Medical Image Computing & Computer Assisted Intervention (<strong>MICCAI</strong>), 2023</em>
+    </p>
+  </div>
+
+  <div style="display: flex; align-items: center;padding-bottom: 10px;">
+    <img src="/images/few——shot_wsi.png" alt="Image" style="width: 150px; height: 100px; margin-right: 15px;">
+    <p style="font-size: 15px;text-align: justify">
+      <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">Few-Shot Lymph Node Metastasis Classification Meets High Performance on Whole Slide Images via the Informative Non-Parametric Classifier</a><br>
+      Yi Li, <strong>Qixiang Zhang</strong>, Tianqi Xiang, Yiqun Lin, Qingling Zhang and Xiaomeng Li <br>
+      <em>Medical Image Computing & Computer Assisted Intervention (<strong>MICCAI</strong>), 2024</em>
     </p>
   </div>
 
