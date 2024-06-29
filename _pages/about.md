@@ -51,7 +51,7 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
   </div>
 
   <div style="display: flex; align-items: center;padding-bottom: 10px;">
-    <img src="/images/few——shot_wsi.png" alt="Image" style="width: 150px; height: 100px; margin-right: 15px;">
+    <img src="/images/few_shot_wsi.png" alt="Image" style="width: 150px; height: 100px; margin-right: 15px;">
     <p style="font-size: 15px;text-align: justify">
       <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">Few-Shot Lymph Node Metastasis Classification Meets High Performance on Whole Slide Images via the Informative Non-Parametric Classifier</a><br>
       Yi Li, <strong>Qixiang Zhang</strong>, Tianqi Xiang, Yiqun Lin, Qingling Zhang and Xiaomeng Li <br>
