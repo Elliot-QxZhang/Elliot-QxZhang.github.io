@@ -14,6 +14,7 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
 🔥News
 ------
 <ul style="overflow:scroll; height:200px; width:100%; margin: 0 auto;font-size: 15px">
+    <li>[06/2024] One paper accepted by MICCAI 2024! </li>
     <li>[02/2024] One paper accepted by CVPR 2024! </li>
     <li>[08/2023] Join Prof. Xiaomeng Li’s lab at HKUST to pursue my Ph.D. degree. </li>
     <li>[07/2023] Glad to be an awardee of the HKUST RedBird PhD Recruitment Award. Thank you, HKUST!</li>
