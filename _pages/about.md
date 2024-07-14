@@ -75,7 +75,7 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
   <p style="font-size: 15px;text-align: justify">
     <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">S&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation</a><br>
     <strong>Qixiang Zhang*</strong>, Haonan Wang*, Yi Li and Xiaomeng Li <br>
-    <em>Submitted to European Conf. on Computer Vision (<strong>ECCV</strong>), 2024</em>
+    <em>Submitted to IEEE Transactions on Medical Imaging (<strong>TMI</strong>), 2024</em>
   </p>
 </div>
 
