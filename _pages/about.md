@@ -42,6 +42,15 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
 ------
 \* denotes equal contribution
 
+<div style="display: flex; align-items: center;padding-bottom: 20px;">
+  <img src="/images/GlandSAM.png" alt="Image" style="width: 150px; height: 100px; margin-right: 15px;">
+  <p style="font-size: 15px;text-align: justify">
+    <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">GlandSAM: Injecting Morphology Knowledge into Segment Anything Model for Label-free Gland Segmentation</a><br>
+    <strong>Qixiang Zhang</strong>, Yi Li and Xiaomeng Li <br>
+    <em>IEEE Transactions on Medical Imaging (<strong>TMI</strong>)</em>
+  </p>
+</div>
+
   <div style="display: flex; align-items: center;padding-bottom: 10px;">
     <img src="/images/2023-miccai-qzhang.png" alt="Image" style="width: 150px; height: 100px; margin-right: 15px;">
     <p style="font-size: 15px;text-align: justify">
@@ -69,6 +78,15 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
     </p>
   </div>
 
+  <div style="display: flex; align-items: center;padding-bottom: 20px;">
+    <img src="/images/DTSC.png" alt="Image" style="width: 150px; height: 100px; margin-right: 15px;">
+    <p style="font-size: 15px;text-align: justify">
+      <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">Judge Like a Real Doctor: Dual Teacher Sample Consistency Framework for Semi-supervised Medical Image Classification</a><br>
+      <strong>Qixiang Zhang</strong>, Zhengyang Jiao and Yan Wang <br>
+      <em>IEEE Transactions on Emerging Topics in Computational Intelligence</em>
+    </p>
+</div>
+
 ### /\*under review\*/
 <div style="display: flex; align-items: center;padding-bottom: 20px;">
   <img src="/images/SD_messenger.png" alt="Image" style="width: 150px; height: 100px: auto; margin-right: 15px;">
@@ -77,24 +95,6 @@ I am a year-1 PhD Student at [The Hong Kong University of Science and Technology
     <strong>Qixiang Zhang*</strong>, Haonan Wang*, Yi Li and Xiaomeng Li <br>
     <em>Submitted to IEEE Transactions on Medical Imaging (<strong>TMI</strong>), 2024</em>
   </p>
-</div>
-
-<div style="display: flex; align-items: center;padding-bottom: 20px;">
-  <img src="/images/GlandSAM.png" alt="Image" style="width: 150px; height: 100px; margin-right: 15px;">
-  <p style="font-size: 15px;text-align: justify">
-    <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">GlandSAM: Injecting Morphology Knowledge into Segment Anything Model for Label-free Gland Segmentation</a><br>
-    <strong>Qixiang Zhang</strong>, Yi Li and Xiaomeng Li <br>
-    <em>Submitted to IEEE Transactions on Medical Imaging (<strong>TMI</strong>)</em>
-  </p>
-</div>
-
-<div style="display: flex; align-items: center;padding-bottom: 20px;">
-    <img src="/images/DTSC.png" alt="Image" style="width: 150px; height: 100px; margin-right: 15px;">
-    <p style="font-size: 15px;text-align: justify">
-      <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">Judge Like a Real Doctor: Dual Teacher Sample Consistency Framework for Semi-supervised Medical Image Classification</a><br>
-      <strong>Qixiang Zhang</strong>, Zhengyang Jiao and Yan Wang <br>
-      <em>Submitted to IEEE Transactions on Medical Imaging (<strong>TMI</strong>)</em>
-    </p>
 </div>
 
 
