@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a year-1 PhD Student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/zh-hans) under the supervision of [Prof. Xiaomeng Li](https://xmengli.github.io/). Previously, I was fortunate to work with [Prof. Yan Wang](https://cs.scu.edu.cn/info/1075/8235.htm) at Sichuan University as an undergraduate research intern.
+I am a year-2 PhD Candidate at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/zh-hans) under the supervision of [Prof. Xiaomeng Li](https://xmengli.github.io/). Previously, I was fortunate to work with [Prof. Yan Wang](https://cs.scu.edu.cn/info/1075/8235.htm) at Sichuan University as an undergraduate research intern.
 
 **Research Interests: Medical Image Analysis, Deep Learning, Computer Vision**
 
