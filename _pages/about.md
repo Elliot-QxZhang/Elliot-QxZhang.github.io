@@ -14,6 +14,7 @@ I am a year-2 PhD Candidate at [The Hong Kong University of Science and Technolo
 🔥News
 ------
 <ul style="overflow:scroll; height:200px; width:100%; margin: 0 auto;font-size: 15px">
+    <li>[06/2024] Pass the PhD Qualifying Examination, becoming a Year-2 PhD Candidate! </li>
     <li>[06/2024] One journal paper accepted by IEEE Transactions on Medical Imaging! </li>
     <li>[06/2024] One conference paper accepted by MICCAI 2024! </li>
     <li>[02/2024] One conference paper accepted by CVPR 2024! </li>
@@ -22,7 +23,7 @@ I am a year-2 PhD Candidate at [The Hong Kong University of Science and Technolo
     <li>[07/2023] Glad to be an awardee of the HKUST RedBird PhD Recruitment Award. Thank you, HKUST!</li>
     <li>[06/2023] One paper accepted by MICCAI 2023!</li>
     <li>[11/2022] Accepting official offer letter from HKUST, preparing for PhD career in HKUST!</li>
-    <li>[10/2022] Finished HK PolyU Research Summer Workshop and won the scholarship!</li>
+    <li>[10/2022] Finished HK PolyU Research Summer Workshop and won the scholarship and preliminary PhD Offer!</li>
     <li>[09/2022] Join HK PolyU Research Summer Workshop, moving to Hong Kong</li>
     <li>[06/2022] Glad to be an awardee of ZiLi-Zhi Dong First-class Scolarship. Thank you, Mr. Liu and Mr Zhu!</li>
     <li>[12/2021] Successfully finished CSITP on "RoboDentist" and got rated as Excellent</li>
@@ -113,6 +114,7 @@ I am a year-2 PhD Candidate at [The Hong Kong University of Science and Technolo
 ------
 <ul style="width:100%; margin: 0 auto;">
     <li>[08/2023 - Present] PhD Student @ Dept. Electronic and Computer Engineering, HKUST </li>
+    <li>[07/2022 - 09/2022] PhD Summer Workshop @ Dept. Computer Science, Hong Kong Polytechnic University </li>
     <li>[07/2021 - 09/2021] Research Summer Workshop @ Dept. Computer Science, National University of Singapore </li>
     <li>[09/2019 - 06/2023] BEng. of Software Engineering @ Dept. Software, Sichuan University </li>
 </ul>
