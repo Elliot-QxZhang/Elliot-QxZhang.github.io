@@ -14,8 +14,10 @@ I am a year-2 PhD Candidate at [The Hong Kong University of Science and Technolo
 🔥News
 ------
 <ul style="overflow:scroll; height:200px; width:100%; margin: 0 auto;font-size: 15px">
-    <li>[06/2024] One paper accepted by MICCAI 2024! </li>
-    <li>[02/2024] One paper accepted by CVPR 2024! </li>
+    <li>[06/2024] One journal paper accepted by IEEE Transactions on Medical Imaging! </li>
+    <li>[06/2024] One conference paper accepted by MICCAI 2024! </li>
+    <li>[02/2024] One conference paper accepted by CVPR 2024! </li>
+    <li>[02/2024] One journal paper accepted by IEEE Transactions on Emerging Topics in Computational Intelligence! </li>
     <li>[08/2023] Join Prof. Xiaomeng Li’s lab at HKUST to pursue my Ph.D. degree. </li>
     <li>[07/2023] Glad to be an awardee of the HKUST RedBird PhD Recruitment Award. Thank you, HKUST!</li>
     <li>[06/2023] One paper accepted by MICCAI 2023!</li>
@@ -94,6 +96,15 @@ I am a year-2 PhD Candidate at [The Hong Kong University of Science and Technolo
     <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">S&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation</a><br>
     <strong>Qixiang Zhang*</strong>, Haonan Wang*, Yi Li and Xiaomeng Li <br>
     <em>Submitted to IEEE Transactions on Medical Imaging (<strong>TMI</strong>), 2024</em>
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;padding-bottom: 20px;">
+  <img src="/images/neurons.png" alt="Image" style="width: 150px; height: 100px: auto; margin-right: 15px;">
+  <p style="font-size: 15px;text-align: justify">
+    <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">Neurons: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction</a><br>
+    Haonan Wang*, <strong>Qixiang Zhang*</strong>,  Lehan Wang, Xuanqi Huang, and Xiaomeng Li <br>
+    <em>Submitted to International Conference on Computer Vision (<strong>ICCV</strong>), 2025</em>
   </p>
 </div>
 
