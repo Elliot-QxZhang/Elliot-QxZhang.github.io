@@ -100,7 +100,7 @@ I am a year-2 PhD Candidate at [The Hong Kong University of Science and Technolo
 </div>
 
 <div style="display: flex; align-items: center;padding-bottom: 20px;">
-  <img src="/images/neurons.png" alt="Image" style="width: 150px; height: 100px: auto; margin-right: 15px;">
+  <img src="/images/neuron.png" alt="Image" style="width: 150px; height: 100px: auto; margin-right: 15px;">
   <p style="font-size: 15px;text-align: justify">
     <a href="" style="color:#3498DB; font-weight: bold; font-size: 16px">Neurons: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction</a><br>
     Haonan Wang*, <strong>Qixiang Zhang*</strong>,  Lehan Wang, Xuanqi Huang, and Xiaomeng Li <br>
