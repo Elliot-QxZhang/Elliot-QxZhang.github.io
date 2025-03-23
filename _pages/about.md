@@ -31,8 +31,8 @@ I am a year-2 PhD Candidate at [The Hong Kong University of Science and Technolo
     <li>[10/2021] Won the First Prize of NUS SoC Summer Workshop! Nice working with you, B. H and S. F!</li>
     <li>[06/2021] Moved to Singapore and joined NUS SoC Summer Workshop!</li>
     <li>[06/2021] Our Brain Disease Knowledge Graph got rated as provincial level College Student Innovative Training Project</li>
-    <li>[06/2021] Our startup "RoboDentist" got rated as national level College Student Innovative Training Project</li>
-    <li>[04/2020] Pass the qualification interview of NUS SoC Summer Workshop and Scholarship. Thank you, SCU!</li>
+    <li>[06/2021] Our startup "RoboDentist" got rated as a national level College Student Innovative Training Project</li>
+    <li>[04/2020] Pass the qualification interview for NUS SoC Summer Workshop and Scholarship. Thank you, SCU!</li>
     <li>[12/2020] Successfully finished CSITP and got rated as Excellent</li>
     <li>[12/2020] One paper on vulnerability mining accepted by TrustCom 2021!</li>
     <li>[06/2020] Our startup "DeepVuler" was rated as national level College Student Innovative Training Project</li>
@@ -113,13 +113,16 @@ I am a year-2 PhD Candidate at [The Hong Kong University of Science and Technolo
 ------
 <ul style="width:100%; margin: 0 auto;">
     <li>[08/2023 - Present] PhD Student @ Dept. Electronic and Computer Engineering, HKUST </li>
+    <li>[07/2021 - 09/2021] Research Summer Workshop @ Dept. Computer Science, National University of Singapore </li>
     <li>[09/2019 - 06/2023] BEng. of Software Engineering @ Dept. Software, Sichuan University </li>
 </ul>
 
 🧑‍🏫Teaching
 ------
 <ul style="width:100%; margin: 0 auto;">
-    <li>[02/2024 - Present] Teaching Assistant @ Introduction to Computer Organization and Design (ELEC2350), HKUST </li>
+    <li>[02/2025 - Present] Teaching Assistant @ Artificial Intelligence for Medical Image Analysis (ELEC4840), HKUST </li>
+    <li>[09/2024 - 01/2025] Teaching Assistant @ Advanced Topics in Artificial Intelligence for Medical Image Analysis (ELEC5690), HKUST </li>
+    <li>[02/2024 - 06/2024] Teaching Assistant @ Introduction to Computer Organization and Design (ELEC2350), HKUST </li>
 </ul>
 
 👨‍🔬Professional Activities
