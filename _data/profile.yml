@@ -22,7 +22,7 @@ short_bio: >-
     I am a Year-2 Ph.D. candidate at The Hong Kong University of Science and Technology (HKUST) under the supervision of <a href="https://xmengli.github.io/" target="_blank">Prof. Xiaomeng LI</a>. My research lies in the interdisciplinary areas of artificial intelligence and medical image analysis, aiming at advancing healthcare with machine intelligence. Specifically, I am currently working on advancing Neural Science with AI solutions.
   </p>
   <p>
-    Previously, I received B.Eng degree in Computer Science at Sichuan University, and closely collaborated with <a href="https://cs.scu.edu.cn/info/1075/8235.htm" target="_blank">Prof. Yan Wang</a> as an undergraduate research assitant.
+    Previously, I received B.Eng degree in Software Engineering at Sichuan University, and closely collaborated with <a href="https://cs.scu.edu.cn/info/1075/8235.htm" target="_blank">Prof. Yan Wang</a> as an undergraduate research assitant.
   </p>
 
 portrait_url: /assets/images/photos/profile.png
@@ -38,8 +38,14 @@ education:
   date: Sep. 2023 - present
 - name: Sichuan University
   logo: /assets/images/badges/sichuan_logo.png
-  position: B.Eng. in Computer Science
+  position: >- 
+    School of Software Engineering <br/>
+    B.Eng in Software Engineering
   date: Sep. 2019 - Jul. 2023
+- name: National University of Singapore
+  logo: /assets/images/badges/nus_logo.png
+  position: SoC Research Summer Camp
+  date: Jun. 2020 - Sep. 2020
 
 experience:
 - name: Sichuan University
