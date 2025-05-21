@@ -8,7 +8,7 @@ pub_post:       ' Under Review.'
 pub_last:       ' <span class="badge badge-pill badge-success badge-publication">Segmentation</span>'
 pub_date:       "2025"
 
-cover:          /assets/images/covers/sd_messenger.png
+cover:          /assets/images/covers/rc_med.png
 authors:
   - Haonan Wang
   - Jiaji Mao
