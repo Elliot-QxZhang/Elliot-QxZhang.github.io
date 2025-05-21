@@ -1,6 +1,6 @@
 ---
 title:          "Neurons: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction"
-date:           2025-3-12 00:01:00 +0800
+date:           2025-05-12 00:01:00 +0800
 selected:       true
 pub:            "International Conference on Computer Vision (ICCV)"
 pub_pre:        "Submitted to "
