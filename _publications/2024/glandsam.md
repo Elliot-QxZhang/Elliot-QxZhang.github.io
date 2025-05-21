@@ -7,7 +7,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2024"
 cover:          /assets/images/covers/glandsam.png
 authors:
-- Qixiang ZHANG
+- <b>Qixiang ZHANG</b>
 - Yi LI
 - Cheng XUE
 - Haonan WANG
