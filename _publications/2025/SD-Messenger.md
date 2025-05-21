@@ -10,8 +10,8 @@ pub_date:       "2025"
 
 cover:          /assets/images/covers/sd_messenger.png
 authors:
-  - Qixiang ZHANG*
-  - Haonan WANG
+  - <b>Qixiang ZHANG</b>*
+  - Haonan WANG*
   - Lehan WANG
   - Xuanqi HUANG
   - Xiaomeng LI
