@@ -1,4 +1,4 @@
 ---
-One Paper accepted by MICCAI 2023
-date: 2023-06-20 00:01:00 +0800
+title: "One Paper accepted by MICCAI 2023"
+date: 2024-12-22 17:30:00 UTC
 ---
