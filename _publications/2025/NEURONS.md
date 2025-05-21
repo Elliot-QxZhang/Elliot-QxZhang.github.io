@@ -5,7 +5,7 @@ selected:       true
 pub:            "International Conference on Computer Vision (ICCV)"
 pub_pre:        "Submitted to "
 pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-dark">AI for Neural Science</span>'
+pub_last:       ' <span class="badge badge-pill badge badge-publication badge-dark">AI for Neural Science</span>'
 pub_date:       "2025"
 
 cover:          /assets/images/covers/neurons.png
