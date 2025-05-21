@@ -10,10 +10,10 @@ pub_date:       "2024"
 
 cover:          /assets/images/covers/allspark.png
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Haonan WANG*
+  - Qixiang ZHANG*
+  - Yi LI
+  - Xiaomeng LI
 links:
   Paper: https://arxiv.org/abs/2403.01818
   Code: https://github.com/xmed-lab/AllSpark
