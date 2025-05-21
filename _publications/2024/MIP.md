@@ -8,7 +8,7 @@ pub_date:       "2024"
 cover:          /assets/images/covers/MIP.png
 authors:
 - Yi LI
-- Qixiang ZHANG
+- <b>Qixiang ZHANG</b>
 - Tianqi XIANG
 - Xiaomeng LI
 links:
