@@ -10,7 +10,7 @@ cover:          /assets/images/covers/moc.png
 authors:
   - Tianqi XIANG
   - Yi LI
-  - - <b>Qixiang ZHANG</b>
+  - <b>Qixiang ZHANG</b>
   - Haonan WANG
   - Xiaomeng LI
 links:
