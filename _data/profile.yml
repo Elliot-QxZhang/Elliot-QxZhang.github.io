@@ -44,7 +44,9 @@ education:
   date: Sep. 2019 - Jul. 2023
 - name: National University of Singapore
   logo: /assets/images/badges/nus_logo.png
-  position: SoC Research Summer Camp
+  position: >- 
+    School of Computing <br/>
+    SoC Research Summer Workshop
   date: Jun. 2020 - Sep. 2020
 
 experience:
