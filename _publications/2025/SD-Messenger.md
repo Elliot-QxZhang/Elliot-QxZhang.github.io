@@ -12,8 +12,7 @@ cover:          /assets/images/covers/sd_messenger.png
 authors:
   - <b>Qixiang ZHANG</b>*
   - Haonan WANG*
-  - Lehan WANG
-  - Xuanqi HUANG
+  - Yi LI
   - Xiaomeng LI
 links:
   Preprint: https://arxiv.org/abs/2407.07763
