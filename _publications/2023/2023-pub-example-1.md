@@ -3,6 +3,7 @@ title:          "Morphology-inspired unsupervised gland segmentation via selecti
 date:           2023-09-05 00:01:00 +0800
 selected:       true
 pub:            "2023 International Conference on Medical Image Computing and Computer-Assisted Intervention"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Segmentation</span>'
 pub_date:       "2023"
 cover:          /assets/images/covers/mssg.png
 authors:
