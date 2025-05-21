@@ -30,22 +30,22 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
+- name: The Hong Kong University os Science and Technology
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
+    Ph.D. Candidate
+  date: Sep. 2023 - present
+- name: Sichuan University
+  logo: /assets/images/badges/PKU_red.png
+  position: B.Eng. in Computer Science
+  date: Sep. 2019 - Jul. 2023
+
+experience:
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
+  position: Research Intern
   date: Sep. 2019 - Jul. 2021
-
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
 
 awards:
 - name: Award Name 2
