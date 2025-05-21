@@ -4,7 +4,7 @@ date:           2025-5-21 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Medical Image (TMI)"
 pub_pre:        "Submitted to "
-pub_post:       'Accepted. <span class="badge badge-pill badge-publication badge-success">Segmentation</span>'
+pub_post:       ' Accepted.'
 pub_last:       ' <span class="badge badge-pill badge-success badge-publication">Segmentation</span>'
 pub_date:       "2025"
 
