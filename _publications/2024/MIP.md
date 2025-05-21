@@ -7,10 +7,11 @@ pub_last:       ' <span class="badge badge-pill badge-primary">WSI Analysis</spa
 pub_date:       "2023"
 cover:          /assets/images/covers/mssg.png
 authors:
-- Qixiang ZHANG
 - Yi LI
+- Qixiang ZHANG
+- Tianqi XIANG
 - Xiaomeng LI
 links:
-  Paper: https://link.springer.com/chapter/10.1007/978-3-031-43901-8_27
-  Code: https://github.com/xmed-lab/MSSG
+  Paper: https://link.springer.com/chapter/10.1007/978-3-031-72390-2_11
+  Code: https://github.com/xmed-lab/INC
 ---
