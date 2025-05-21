@@ -1,21 +1,21 @@
 ---
-title:          "Neurons: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction"
+title:          "S&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation"
 date:           2025-35-12 00:01:00 +0800
 selected:       true
-pub:            "International Conference on Computer Vision (ICCV)"
+pub:            "IEEE Transactions on Medical Image (TMI)"
 pub_pre:        "Submitted to "
-pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-dark">AI for Neural Science</span>'
+pub_post:       'Accepted.'
+pub_last:       ' <span class="badge badge-pill badge-success badge-publication">Segmentation</span>'
 pub_date:       "2024"
 
-cover:          /assets/images/covers/neurons.png
+cover:          /assets/images/covers/sd_messenger.png
 authors:
-  - Haonan WANG*
   - Qixiang ZHANG*
+  - Haonan WANG
   - Lehan WANG
   - Xuanqi HUANG
   - Xiaomeng LI
 links:
-  Preprint: https://arxiv.org/abs/2503.11167
-  Code: https://github.com/xmed-lab/NEURONS
+  Preprint: https://arxiv.org/abs/2407.07763
+  Code: https://github.com/xmed-lab/SD-Messenger
 ---
