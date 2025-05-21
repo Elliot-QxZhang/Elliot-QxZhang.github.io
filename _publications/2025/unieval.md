@@ -1,6 +1,6 @@
 ---
 title:          "UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation"
-date:           2025-5-21 00:01:00 +0800
+date:           2025-5-12 00:01:00 +0800
 selected:       true
 pub:            "Submitted to Annual Conference on Neural Information Processing Systems (NeuralIPS) Under Review"
 pub_last:       ' <span class="badge badge-pill badge-warning badge-publication">Benchmark</span>'
