@@ -11,7 +11,7 @@ pub_date:       "2025"
 cover:          /assets/images/covers/neurons.png
 authors:
   - Haonan WANG*
-  - Qixiang ZHANG*
+  - <b>Qixiang ZHANG*</b>
   - Lehan WANG
   - Xuanqi HUANG
   - Xiaomeng LI
