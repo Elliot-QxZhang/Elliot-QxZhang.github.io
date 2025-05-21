@@ -3,7 +3,7 @@ title:          "Few-Shot Lymph Node Metastasis Classification Meets High Perfor
 date:           2024-05-12 00:01:00 +0800
 selected:       true
 pub:            "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)"
-pub_last:       ' <span class="badge badge-pill badge-primary">WSI Analysis</span>'
+pub_last:       ' <span class="badge badge-pill badge-primary badge-publication">WSI Analysis</span>'
 pub_date:       "2024"
 cover:          /assets/images/covers/MIP.png
 authors:
