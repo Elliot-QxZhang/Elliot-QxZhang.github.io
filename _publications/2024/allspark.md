@@ -11,7 +11,7 @@ pub_date:       "2024"
 cover:          /assets/images/covers/allspark.png
 authors:
   - Haonan WANG*
-  - Qixiang ZHANG*
+  - <b>Qixiang ZHANG*</b>
   - Yi LI
   - Xiaomeng LI
 links:
