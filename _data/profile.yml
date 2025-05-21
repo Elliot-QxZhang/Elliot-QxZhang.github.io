@@ -31,21 +31,21 @@ portrait_caption: >-
 
 education:
 - name: The Hong Kong University os Science and Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/hkust_logo_2.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Electronic and Computer Engineering <br/>
     Ph.D. Candidate
   date: Sep. 2023 - present
 - name: Sichuan University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/sichuan_logo.png
   position: B.Eng. in Computer Science
   date: Sep. 2019 - Jul. 2023
 
 experience:
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
+- name: Sichuan University
+  logo: /assets/images/badges/sichuan_logo.png
   position: Research Intern
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2020 - Jul. 2022
 
 awards:
 - name: Award Name 2
