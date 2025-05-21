@@ -1,0 +1,10 @@
+journal_reviews:
+  - name: "IEEE Transactions on Medical Image (TMI)"
+  - name: "Medical Image Analysis (MIA)"
+  - name: "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)"
+  - name: "IEEE Journal of Biomedical and Health Informatics (JBHI)"
+  - name: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
+
+conference_reviews:
+  - name: "European Conference on Computer Vision (ECCV)"
+  - name: "Medical Image Computing and Computer Assisted Intervention (MICCAI)"
