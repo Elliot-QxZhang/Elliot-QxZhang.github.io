@@ -7,7 +7,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2023"
 cover:          /assets/images/covers/mssg.png
 authors:
-- Qixiang ZHANG
+- <b>Qixiang ZHANG</b>
 - Yi LI
 - Xiaomeng LI
 links:
