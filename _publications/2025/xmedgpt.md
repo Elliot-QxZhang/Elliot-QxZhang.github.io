@@ -19,7 +19,7 @@ authors:
   - Bodong Du
   - Xiaomeng Li
 links:
-  Preprint: https://arxiv.org/abs/2505.03380
+  Preprint: https://arxiv.org/abs/2505.06898
   Code: None
 ---
 
