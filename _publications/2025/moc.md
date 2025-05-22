@@ -14,6 +14,4 @@ authors:
   - Haonan WANG
   - Xiaomeng LI
 links:
-  Preprint: None
-  Code: None
 ---
