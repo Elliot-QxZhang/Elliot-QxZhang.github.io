@@ -16,5 +16,4 @@ authors:
 - Yan Wang
 links:
   Paper: https://arxiv.org/abs/2411.03041
-  Code: None
 ---
