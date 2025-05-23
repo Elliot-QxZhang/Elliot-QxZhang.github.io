@@ -14,7 +14,7 @@ authors:
   - Yi Li
   - Ziyu Ning
   - Tianqi Xiang
-  - <br>Qixiang Zhang</br>
+  - <b>Qixiang Zhang</b>
   - Yi Min
   - Zhihao Lin
   - Feiyan Feng
