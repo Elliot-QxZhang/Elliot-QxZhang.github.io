@@ -30,7 +30,7 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: The Hong Kong University os Science and Technology
+- name: The Hong Kong University of Science and Technology
   logo: /assets/images/badges/hkust_logo_2.png
   position: >- 
     Department of Electronic and Computer Engineering <br/>
@@ -58,13 +58,13 @@ experience:
   date: Sep. 2020 - Jul. 2022
 
 awards:
-- name: Redbird Scholarship (Top 5%, 40,000 HKD) | HKUST
-  date: 2023
 - name: Postgraduate Studentship (18,000 HKD per month) | HKUST 
   date: 2023
-- name: Outstanding Graduate (Top 5%) | SCU
+- name: Outstanding Graduate (Top 3%) | SCU
   date: 2023
-- name: First-level Scholarship for Academic Excellence (Top 2%) | SCU
+- name: National Scholarship for Academic Excellence (Top 1%) | SCU
+  date: 2020
+- name: First-level Scholarship for Academic Excellence (Top 3%) | SCU
   date: 2021
 - name: First Prize (Top < 2%) of Research Summer Workshop | NUS
   date: 2020
