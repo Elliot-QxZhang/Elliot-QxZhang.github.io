@@ -1,4 +1,4 @@
 ---
-title: "One Journal Paper accepted by IEEE TMI"
-date: 2025-5-22 17:30:00 UTC
+title: "One Journal Paper accepted by MICCAI 2023"
+date: 2023-6-20 17:30:00 UTC
 ---
