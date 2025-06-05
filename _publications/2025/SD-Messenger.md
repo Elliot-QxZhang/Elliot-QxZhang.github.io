@@ -5,7 +5,7 @@ selected:       true
 pub:            "IEEE Transactions on Medical Image (TMI)"
 pub_pre:        ""
 pub_post:       '.'
-pub_last:       ' <span class="badge badge-pill badge-success badge-publication">Segmentation</span>'
+pub_last:       ' <span class="badge badge-pill badge-success badge-publication">Segmentation</span> <span class="badge badge-primary">JCR Q1</span>'
 pub_date:       "2025"
 
 cover:          /assets/images/covers/sd_messenger.png
