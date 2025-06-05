@@ -15,6 +15,6 @@ authors:
   - Yi LI
   - Xiaomeng LI
 links:
-  Paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11021664
+  Paper: https://ieeexplore.ieee.org/document/11021664
   Code: https://github.com/xmed-lab/SD-Messenger
 ---
