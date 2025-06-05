@@ -2,7 +2,7 @@
 title:          "GlandSAM: Injecting Morphology Knowledge into Segment Anything Model for Label-free Gland Segmentation"
 date:           2024-09-05 00:01:00 +0800
 selected:       true
-pub:            "IEEE Transactions on Medical Image (TMI)"
+pub:            'IEEE Transactions on Medical Image (TMI) <span class="badge badge-success">JCR Q1</span>'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Segmentation</span>'
 pub_date:       "2024"
 cover:          /assets/images/covers/glandsam.png
