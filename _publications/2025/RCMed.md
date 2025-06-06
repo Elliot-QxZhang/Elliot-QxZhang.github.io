@@ -27,4 +27,5 @@ authors:
   - Xiaomeng Li
 links:
   Preprint: https://arxiv.org/abs/2505.03380
+  Demo: https://xmed-lab.github.io/RCMed/
 ---
