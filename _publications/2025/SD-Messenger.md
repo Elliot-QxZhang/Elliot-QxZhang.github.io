@@ -5,7 +5,7 @@ selected:       true
 pub:            'IEEE Transactions on Medical Image (TMI) <span class="badge badge-info">JCR Q1</span>'
 pub_pre:        ""
 pub_post:       '.'
-pub_last:       ' <span class="badge badge-pill badge-success badge-publication">Segmentation</span>'
+pub_last:       ' <span class="badge badge-pill badge-success badge-publication">Segmentation</span> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/sd-messenger?style=social">'
 pub_date:       "2025"
 
 cover:          /assets/images/covers/sd_messenger.png
