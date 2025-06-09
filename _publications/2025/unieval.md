@@ -3,7 +3,7 @@ title:          "UniEval: Unified Holistic Evaluation for Unified Multimodal Und
 date:           2025-5-12 00:01:00 +0800
 selected:       true
 pub:            "Submitted to Annual Conference on Neural Information Processing Systems (NeuralIPS) Under Review"
-pub_last:       ' <span class="badge badge-pill badge-warning badge-publication">Benchmark</span> <span class="badge badge-pill badge-secondary badge-publication">MLLM</span>'
+pub_last:       ' <span class="badge badge-pill badge-warning badge-publication">Benchmark</span> <span class="badge badge-pill badge-secondary badge-publication">MLLM</span> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/AllSpark?style=social">'
 pub_date:       "2025"
 
 cover:          /assets/images/covers/unieval.png
