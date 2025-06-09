@@ -5,7 +5,7 @@ selected:       true
 pub:            'Conference on Computer Vision and Pattern Recognition (CVPR) <span class="badge badge-info">CCF-A</span>'
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Segmentation</span> <iframe src="https://ghbtns.com/github-btn.html?user=Elliot-QxZhang&repo=AllSpark&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Segmentation</span> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/UniEval?style=social">'
 pub_date:       "2024"
 
 cover:          /assets/images/covers/allspark.png
