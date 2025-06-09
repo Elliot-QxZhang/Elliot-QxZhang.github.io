@@ -3,7 +3,7 @@ title:          "Neurons: Emulating the Human Visual Cortex Improves Fidelity an
 date:           2025-05-12 00:01:00 +0800
 selected:       true
 pub:            "Under review"
-pub_last:       ' <span class="badge badge-pill badge badge-publication badge-dark">AI for Neural Science</span>'
+pub_last:       ' <span class="badge badge-pill badge badge-publication badge-dark">AI for Neural Science</span> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/NEURONS?style=social">'
 pub_date:       "2025"
 
 cover:          /assets/images/covers/neurons.png
