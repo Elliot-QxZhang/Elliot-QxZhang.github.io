@@ -32,3 +32,33 @@ navbar_title: Home
 {% include widgets/professional_activities_card.html %}
 
 {% include widgets/misc_card.html %}
+
+<div id="globeViz" style="width: 600px; height: 600px;"></div>
+
+<script>
+// 示例数据（可以替换成你的真实访问数据）
+const visitsData = [
+  { lat: 37.7749, lng: -122.4194, size: 0.1, color: 'red' }, // 旧金山
+  { lat: 40.7128, lng: -74.0060, size: 0.2, color: 'blue' }, // 纽约
+  { lat: 51.5074, lng: -0.1278, size: 0.15, color: 'green' }, // 伦敦
+  { lat: 35.6762, lng: 139.6503, size: 0.1, color: 'yellow' }, // 东京
+];
+
+// 创建地球
+const globe = Globe()
+  .globeImageUrl('https://unpkg.com/three-globe/example/img/earth-blue-marble.jpg')
+  .bumpImageUrl('https://unpkg.com/three-globe/example/img/earth-topology.png')
+  .backgroundImageUrl('https://unpkg.com/three-globe/example/img/night-sky.png')
+  .hexBinPointsData(visitsData)
+  .hexAltitude(d => d.size * 0.1)
+  .hexBinResolution(4)
+  .hexTopColor(d => d.color)
+  .hexSideColor(d => d.color)
+  .hexBinMerge(true)
+  .enablePointerInteraction(false)
+  (document.getElementById('globeViz'));
+
+// 自动旋转
+globe.controls().autoRotate = true;
+globe.controls().autoRotateSpeed = 1;
+</script>
