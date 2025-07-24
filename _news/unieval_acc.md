@@ -1,6 +1,6 @@
 ---
 title: >-
-    One Co-authored paper accepted as Oral Presentation (Top 0.1%) of NeurIPS 2025
-date: 2025-05-15 10:00:00 -0800
+    One Co-authored paper accepted as Oral Presentation (Top 0.1%) of NeurIPS 2025 <span class="badge badge-info">CCF-A</span>
+date: 2025-07-24 10:00:00 -0800
 ---
 
