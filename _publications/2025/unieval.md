@@ -2,7 +2,7 @@
 title:          "UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation"
 date:           2025-5-12 00:01:00 +0800
 selected:       true
-pub:            'Annual Conference on Neural Information Processing Systems (NeuralIPS) <span class="badge badge-info">CCF-A</span> <font color='red'>(Oral, Top 0.1%)</font>'
+pub:            'Annual Conference on Neural Information Processing Systems (NeuralIPS) <span class="badge badge-info">CCF-A</span> <span class="badge badge-pill badge-danger">Oral, Top 0.1%</span>'
 pub_last:       ' <span class="badge badge-pill badge-warning badge-publication">Benchmark</span> <span class="badge badge-pill badge-secondary badge-publication">MLLM</span> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/UniEval?style=social">'
 pub_date:       "2025"
 
