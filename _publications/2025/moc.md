@@ -14,4 +14,6 @@ authors:
   - Haonan WANG
   - Xiaomeng LI
 links:
+  Paper: https://arxiv.org/pdf/2508.09967
+  Code: https://github.com/xmed-lab/MOC
 ---
