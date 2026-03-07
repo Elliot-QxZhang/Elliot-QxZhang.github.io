@@ -2,7 +2,7 @@
 title:          "A Cognitive Process-Inspired Architecture for Subject-Agnostic Brain Visual Decoding"
 date:           2026-01-26 00:01:00 +0800
 selected:       true
-pub:            'International Conference of Learning Representations (ICLR)'
+pub:            'International Conference of Learning Representations (ICLR) <span class="badge badge-info">CCF-A</span>'
 pub_last:       ' <span class="badge badge-pill badge badge-publication badge-dark">AI for Neural Science</span> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/NEURONS?style=social">'
 pub_date:       "2026"
 
