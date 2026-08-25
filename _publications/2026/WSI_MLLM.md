@@ -8,7 +8,7 @@ pub_date:       "2026"
 
 cover:          /assets/images/covers/WSI_MLLM.png
 authors:
-  - Yi LL
+  - Yi LI
   - Zhihao LIN
   - <b>Qixiang ZHANG*</b>
   - Xinpeng DING
