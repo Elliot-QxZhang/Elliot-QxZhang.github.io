@@ -4,9 +4,13 @@
 # Everything else (email, links, logos, dates) is shared -- maintained once.
 # If a `zh:` value is missing, templates fall back to the English text.
 
-primary_name: "Qixiang Zhang"
+primary_name:
+  en: "Qixiang Zhang"
+  zh: "张麒翔"
 secondary_name: ""
-navbar_name: "Qixiang (Elliot) Zhang"
+navbar_name:
+  en: "Qixiang (Elliot) Zhang"
+  zh: "张麒翔 (Elliot)"
 
 positions:
 - logo: /assets/images/badges/hkust_logo.jpg  # Logo is optional
@@ -46,7 +50,7 @@ portrait_caption:
   en: >-
     Hi, I am Qixiang!
   zh: >-
-    你好，我是启翔！
+    你好，我是麒翔！
 
 education:
 - name:

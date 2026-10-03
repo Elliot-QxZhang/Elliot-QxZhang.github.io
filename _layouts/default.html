@@ -14,7 +14,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>{{ page.title }} - {{ site.data.profile.navbar_name }}</title>
+    <title>{{ page.title }} - {{ site.data.profile.navbar_name[lang] | default: site.data.profile.navbar_name.en }}</title>
     <link rel="icon" href="{{ '/assets/images/photos/favicon.png' | relative_url }}" type="image/png">
     <link rel="alternate" hreflang="en" href="{{ base_path | relative_url }}">
     <link rel="alternate" hreflang="zh-Hans" href="{{ alt_zh_url | relative_url }}">
