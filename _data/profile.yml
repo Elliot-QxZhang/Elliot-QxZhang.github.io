@@ -55,40 +55,40 @@ portrait_caption:
 education:
 - name:
     en: The Hong Kong University of Science and Technology
-    zh: 香港科技大学 (The Hong Kong University of Science and Technology)
+    zh: 香港科技大学 (HKUST)
   logo: /assets/images/badges/hkust_logo_2.png
   position:
     en: >-
       Department of Electronic and Computer Engineering <br/>
       Ph.D. Candidate (Year 4)
     zh: >-
-      电子与计算机工程学系 (Department of Electronic and Computer Engineering) <br/>
+      电子与计算机工程学系 (Department of ECE) <br/>
       博士研究生 (博四)
   date: Sep. 2023 - present
   date_zh: 2023 年 9 月 - 至今
 - name:
     en: Sichuan University
-    zh: 四川大学 (Sichuan University)
+    zh: 四川大学 (SCU)
   logo: /assets/images/badges/sichuan_logo.png
   position:
     en: >-
       School of Software Engineering <br/>
       B.Eng in Software Engineering
     zh: >-
-      软件学院 (School of Software Engineering) <br/>
+      软件学院 (SoSE) <br/>
       软件工程学士 (B.Eng in Software Engineering)
   date: Sep. 2019 - Jul. 2023
   date_zh: 2019 年 9 月 - 2023 年 7 月
 - name:
     en: National University of Singapore
-    zh: 新加坡国立大学 (National University of Singapore)
+    zh: 新加坡国立大学 (NUS)
   logo: /assets/images/badges/nus_logo.png
   position:
     en: >-
       School of Computing <br/>
       SoC Research Summer Workshop
     zh: >-
-      计算机学院 (School of Computing) <br/>
+      计算机学院 (SoC) <br/>
       SoC 科研暑期工作坊 (Research Summer Workshop)
   date: Jun. 2020 - Sep. 2020
   date_zh: 2020 年 6 月 - 2020 年 9 月
@@ -96,14 +96,14 @@ education:
 experience:
 - name:
     en: Sichuan University
-    zh: 四川大学 (Sichuan University)
+    zh: 四川大学 (SCU)
   logo: /assets/images/badges/sichuan_logo.png
   position:
     en: >-
       Research Intern <br/>
       Supervisor: Prof. Yan WANG
     zh: >-
-      科研实习生 (Research Intern) <br/>
+      科研实习生 <br/>
       指导老师：王艳教授（Prof. Yan WANG）
   date: Sep. 2020 - Jul. 2022
   date_zh: 2020 年 9 月 - 2022 年 7 月
