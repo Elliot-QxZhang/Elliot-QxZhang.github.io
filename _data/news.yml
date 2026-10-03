@@ -9,7 +9,7 @@
 #
 # Keep `en` and `zh` in sync. If `zh` is omitted the English text is shown.
 
-- date: 2026-01-26 17:30:00 UTC
+- date: 2026-01-26 17:30:00 +0000
   title:
     en: 'One co-author Paper accepted by ICLR 2026 <span class="badge badge-info">CCF-A</span>'
     zh: '一篇合作者论文被 ICLR 2026 录用 <span class="badge badge-info">CCF-A</span>'
@@ -24,7 +24,7 @@
     en: 'One paper accepted by ICCV 2025 <span class="badge badge-info">CCF-A</span>'
     zh: '一篇论文被 ICCV 2025 录用 <span class="badge badge-info">CCF-A</span>'
 
-- date: 2025-06-18 17:30:00 UTC
+- date: 2025-06-18 17:30:00 +0000
   title:
     en: "One co-author paper accepted by MICCAI 2025"
     zh: "一篇合作者论文被 MICCAI 2025 录用"
@@ -43,7 +43,7 @@
       在 AI for Neural Science（脑信号解码）方向的新尝试
       <a href="https://arxiv.org/abs/2503.11167" target="_blank">阅读更多 <i class="fas fa-angle-double-right"></i></a>
 
-- date: 2025-05-15 10:00:00 -0800
+- date: 2025-05-15 10:00:01 -0800
   title:
     en: >-
       Check our new evaluation benchmark for Unified MLLM, submitted to NeuralIPS 2025
@@ -52,12 +52,12 @@
       欢迎关注我们面向统一多模态大模型的新评测基准，已投稿至 NeuralIPS 2025
       <a href="https://arxiv.org/pdf/2505.10483" target="_blank">阅读更多 <i class="fas fa-angle-double-right"></i></a>
 
-- date: 2024-12-22 17:30:01 UTC
+- date: 2024-12-22 17:30:01 +0000
   title:
     en: 'One Journal Paper accepted by IEEE Transactions on Medical Imaging <span class="badge badge-info">JCR Q1</span>'
     zh: '一篇期刊论文被 IEEE Transactions on Medical Imaging 录用 <span class="badge badge-info">JCR Q1</span>'
 
-- date: 2024-12-22 17:30:00 UTC
+- date: 2024-12-22 17:30:00 +0000
   title:
     en: "One co-author Paper accepted by MICCAI 2024"
     zh: "一篇合作者论文被 MICCAI 2024 录用"
@@ -81,12 +81,12 @@
       加入香港科技大学，开始博士生涯。前往香港！
       <span class="badge badge-pill badge-info">新起点</span>
 
-- date: 2023-06-20 17:30:00 UTC
+- date: 2023-06-20 17:30:00 +0000
   title:
     en: "One Conference Paper accepted by MICCAI 2023"
     zh: "一篇会议论文被 MICCAI 2023 录用"
 
-- date: 2023-06-19 17:30:00 UTC
+- date: 2023-06-19 17:30:00 +0000
   title:
     en: "Start PolyU PhD Research Summer Camp. Moving to Hong Kong!"
     zh: "参加香港理工大学博士研究夏令营。前往香港！"
@@ -100,12 +100,12 @@
       从四川大学毕业，并获得优秀毕业生称号。感谢四川大学！
       <span class="badge badge-pill badge-info">新起点</span>
 
-- date: 2023-05-22 17:30:00 UTC
+- date: 2023-05-22 17:30:00 +0000
   title:
     en: "One Journal Paper accepted by IEEE TETCI"
     zh: "一篇期刊论文被 IEEE TETCI 录用"
 
-- date: 2020-09-19 17:30:00 UTC
+- date: 2020-09-19 17:30:00 +0000
   title:
     en: "Finish NUS SoC Research Summer Camp with a First Prize! Thank you, NUS!"
     zh: "完成新加坡国立大学计算机学院研究夏令营，并获得一等奖！感谢新加坡国立大学！"
@@ -117,12 +117,12 @@
     zh: >-
       开始以本科生研究助理的身份与 Yan WANG 教授合作。
 
-- date: 2020-08-19 17:30:00 UTC
+- date: 2020-08-19 17:30:00 +0000
   title:
     en: "Finish PolyU PhD Research Summer Camp with a 10K Scholarship. Thank you, PolyU!"
     zh: "完成香港理工大学博士研究夏令营，并获得 1 万元奖学金。感谢香港理工大学！"
 
-- date: 2020-07-19 17:30:00 UTC
+- date: 2020-07-19 17:30:00 +0000
   title:
     en: "Start NUS SoC Research Summer Camp. Moving to Singapore!"
     zh: "参加新加坡国立大学计算机学院研究夏令营。前往新加坡！"

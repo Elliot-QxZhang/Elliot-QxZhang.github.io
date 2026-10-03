@@ -175,7 +175,7 @@
     Code: https://github.com/xmed-lab/NEURONS
 
 - title:    "UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation"
-  date:     2025-05-12 00:01:00 +0800
+  date:     2025-05-12 00:01:01 +0800
   selected: true
   pub:      'Submitted to Annual Conference on Neural Information Processing Systems (NeurIPS)'
   pub_last: ' <span class="badge badge-pill badge-warning badge-publication">Benchmark</span> <span class="badge badge-pill badge-secondary badge-publication">MLLM</span> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/UniEval?style=social">'
@@ -244,7 +244,7 @@
     Demo: https://xmed-lab.github.io/RCMed/
 
 - title:    "Multi-Modal Explainable Medical AI Assistant for Trustworthy Human-AI Collaboration"
-  date:     2025-05-01 00:01:00 +0800
+  date:     2025-05-01 00:01:01 +0800
   selected: true
   pub:      "Under Review"
   pub_last: ' <span class="badge badge-pill badge-secondary badge-publication">MLLM</span> <span class="badge badge-pill badge-warning badge-publication">Benchmark</span>'
