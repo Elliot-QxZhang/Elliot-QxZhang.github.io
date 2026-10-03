@@ -34,7 +34,20 @@ plugins:
 
 # timezone: Asia/Shanghai
 
+# Publications and news used to be collections (_publications/, _news/). They now
+# live in _data/publications.yml and _data/news.yml so that each entry carries its
+# English and Chinese text side by side and can be edited in one place.
 collections:
-  - publications
-  - news
   - showcase
+
+# Language is derived from the page's location, so individual pages don't have to
+# declare it: anything under zh/ is Chinese, everything else is English.
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: en
+  - scope:
+      path: "zh"
+    values:
+      lang: zh

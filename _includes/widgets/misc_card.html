@@ -1,10 +1,12 @@
+{%- assign lang = page.lang | default: 'en' -%}
+{%- assign t = site.data.i18n[lang] -%}
 {% if site.data.misc %}
 <div class="card mb-3">
     <div class="card-body py-2">
-        <h5 class="card-title mb-2"><i class="fas fa-lightbulb"></i> Life Beyond AI</h5>
+        <h5 class="card-title mb-2"><i class="fas fa-lightbulb"></i> {{ t.life_beyond_ai }}</h5>
         
         <div class="card-text">
-            <p class="text-muted">{{ site.data.misc.thoughts_on_life }}</p>
+            <p class="text-muted">{{ site.data.misc.thoughts_on_life[lang] | default: site.data.misc.thoughts_on_life.en }}</p>
         </div>
     </div>
 </div>

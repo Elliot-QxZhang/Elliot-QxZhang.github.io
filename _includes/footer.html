@@ -1,9 +1,11 @@
+{%- assign lang = page.lang | default: 'en' -%}
+{%- assign t = site.data.i18n[lang] -%}
 <footer class="footer">
     <div class="{% if page.container_class %}{{ page.container_class }}{% else %}container-lg{% endif %}">
         <div class="row my-3">
             <div class="col-6">
                 <div class="text-muted">
-                    <i>Last updated: {{ "now" | date: "%b %Y" }}</i>
+                    <i>{{ t.last_updated }} {{ "now" | date: t.date_format_month }}</i>
                 </div>
             </div>
             <div class="col-6">

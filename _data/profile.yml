@@ -1,10 +1,18 @@
+# Profile data.
+#
+# Fields that differ between languages use nested `en:` / `zh:` keys.
+# Everything else (email, links, logos, dates) is shared -- maintained once.
+# If a `zh:` value is missing, templates fall back to the English text.
+
 primary_name: "Qixiang Zhang"
 secondary_name: ""
 navbar_name: "Qixiang (Elliot) Zhang"
 
 positions:
 - logo: /assets/images/badges/hkust_logo.jpg  # Logo is optional
-  name: Ph.D. Candidate at HKUST
+  name:
+    en: Ph.D. Candidate at HKUST
+    zh: 香港科技大学博士研究生
 
 email: "elliot.zhang@connect.ust.hk"
 cv_link: /assets/CV.pdf
@@ -17,54 +25,103 @@ linkedin: qixiang-elliot-zhang-790a10252
 orcid: 0009-0002-3158-9471
 
 short_bio_text_justify: false
-short_bio: >-
-  <p>
-    I am a Year-2 Ph.D. candidate at The Hong Kong University of Science and Technology (HKUST) under the supervision of <a href="https://xmengli.github.io/" target="_blank">Prof. Xiaomeng LI</a>. My research lies in the interdisciplinary areas of artificial intelligence and medical image analysis, aiming at advancing healthcare with machine intelligence. Specifically, I am currently working on advancing Neural Science with AI solutions.
-  </p>
-  <p>
-    Previously, I received B.Eng degree in Software Engineering at Sichuan University, and closely collaborated with <a href="https://cs.scu.edu.cn/info/1075/8235.htm" target="_blank">Prof. Yan Wang</a> as an undergraduate research intern.
-  </p>
+short_bio:
+  en: >-
+    <p>
+      I am a Year-2 Ph.D. candidate at The Hong Kong University of Science and Technology (HKUST) under the supervision of <a href="https://xmengli.github.io/" target="_blank">Prof. Xiaomeng LI</a>. My research lies in the interdisciplinary areas of artificial intelligence and medical image analysis, aiming at advancing healthcare with machine intelligence. Specifically, I am currently working on advancing Neural Science with AI solutions.
+    </p>
+    <p>
+      Previously, I received B.Eng degree in Software Engineering at Sichuan University, and closely collaborated with <a href="https://cs.scu.edu.cn/info/1075/8235.htm" target="_blank">Prof. Yan Wang</a> as an undergraduate research intern.
+    </p>
+  zh: >-
+    <p>
+      我是香港科技大学（HKUST）博士二年级研究生，师从<a href="https://xmengli.github.io/" target="_blank">李小萌教授（Prof. Xiaomeng LI）</a>。我的研究处于人工智能与医学图像分析的交叉领域，致力于用机器智能推动医疗健康的发展。目前，我主要研究用 AI 方法推进神经科学（Neural Science）。
+    </p>
+    <p>
+      此前，我在四川大学获得软件工程学士学位，并作为本科科研实习生与<a href="https://cs.scu.edu.cn/info/1075/8235.htm" target="_blank">王艳教授（Prof. Yan Wang）</a>密切合作。
+    </p>
 
 portrait_url: /assets/images/photos/profile.png
-portrait_caption: >-
-  Hi, I am Qixiang!
+portrait_caption:
+  en: >-
+    Hi, I am Qixiang!
+  zh: >-
+    你好，我是启翔！
 
 education:
-- name: The Hong Kong University of Science and Technology
+- name:
+    en: The Hong Kong University of Science and Technology
+    zh: 香港科技大学
   logo: /assets/images/badges/hkust_logo_2.png
-  position: >- 
-    Department of Electronic and Computer Engineering <br/>
-    Ph.D. Candidate
+  position:
+    en: >-
+      Department of Electronic and Computer Engineering <br/>
+      Ph.D. Candidate
+    zh: >-
+      电子及计算机工程学系 <br/>
+      博士研究生
   date: Sep. 2023 - present
-- name: Sichuan University
+  date_zh: 2023 年 9 月 - 至今
+- name:
+    en: Sichuan University
+    zh: 四川大学
   logo: /assets/images/badges/sichuan_logo.png
-  position: >- 
-    School of Software Engineering <br/>
-    B.Eng in Software Engineering
+  position:
+    en: >-
+      School of Software Engineering <br/>
+      B.Eng in Software Engineering
+    zh: >-
+      软件学院 <br/>
+      软件工程学士
   date: Sep. 2019 - Jul. 2023
-- name: National University of Singapore
+  date_zh: 2019 年 9 月 - 2023 年 7 月
+- name:
+    en: National University of Singapore
+    zh: 新加坡国立大学
   logo: /assets/images/badges/nus_logo.png
-  position: >- 
-    School of Computing <br/>
-    SoC Research Summer Workshop
+  position:
+    en: >-
+      School of Computing <br/>
+      SoC Research Summer Workshop
+    zh: >-
+      计算机学院 <br/>
+      SoC 科研暑期工作坊
   date: Jun. 2020 - Sep. 2020
+  date_zh: 2020 年 6 月 - 2020 年 9 月
 
 experience:
-- name: Sichuan University
+- name:
+    en: Sichuan University
+    zh: 四川大学
   logo: /assets/images/badges/sichuan_logo.png
-  position: >- 
-    Research Intern <br/>
-    Supervisor: Prof. Yan WANG
+  position:
+    en: >-
+      Research Intern <br/>
+      Supervisor: Prof. Yan WANG
+    zh: >-
+      科研实习生 <br/>
+      指导老师：王艳教授（Prof. Yan WANG）
   date: Sep. 2020 - Jul. 2022
+  date_zh: 2020 年 9 月 - 2022 年 7 月
 
 awards:
-- name: Best TA Award (10,000 HKD, Top 1%) | HKUST
+- name:
+    en: Best TA Award (10,000 HKD, Top 1%) | HKUST
+    zh: 最佳助教奖（10,000 港元，前 1%）| 香港科技大学
   date: 2025
-- name: Postgraduate Studentship (18,000 HKD per month) | HKUST
+- name:
+    en: Postgraduate Studentship (18,000 HKD per month) | HKUST
+    zh: 研究生助学金（每月 18,000 港元）| 香港科技大学
   date: 2023
-- name: RedBird PhD Scholarship (82,000 HKD, Top 1%) | HKUST
+- name:
+    en: RedBird PhD Scholarship (82,000 HKD, Top 1%) | HKUST
+    zh: RedBird 博士奖学金（82,000 港元，前 1%）| 香港科技大学
   date: 2023
-- name: Outstanding Graduate (Top 3%) | SCU
+- name:
+    en: Outstanding Graduate (Top 3%) | SCU
+    zh: 优秀毕业生（前 3%）| 四川大学
   date: 2023
-- name: First Prize (Top < 2%) of Research Summer Workshop | NUS
+- name:
+    en: First Prize (Top < 2%) of Research Summer Workshop | NUS
+    zh: 科研暑期工作坊一等奖（前 2% 以内）| 新加坡国立大学
   date: 2020

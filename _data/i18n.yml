@@ -1,0 +1,109 @@
+# UI strings for both languages.
+#
+# Every key MUST exist under BOTH `en:` and `zh:`, otherwise the corresponding
+# text renders as an empty string on that language's pages.
+#
+# This file holds interface text only. Personal content lives in:
+#   _data/profile.yml                 (bio, education, experience, awards)
+#   _data/news.yml                    (news entries)
+#   _data/publications.yml            (publications)
+#   _data/professional_activities.yml (review service)
+#   _data/misc.yml                    (Life Beyond AI)
+
+en:
+  # <html lang="..."> value
+  html_lang: "en"
+
+  # Navbar
+  menu: "Menu"
+  lang_switch_label: "Language"
+  lang_en: "English"
+  lang_zh: "中文"
+
+  # Profile card
+  curriculum_vitae: "Curriculum Vitae"
+  google_scholar: "Google Scholar"
+  github: "GitHub"
+  wechat: "WeChat"
+  twitter: "Twitter"
+  linkedin: "LinkedIn"
+  orcid: "ORCID"
+  portrait_alt: "Portrait"
+  close: "Close"
+
+  # Experience card
+  education: "Education"
+  experience: "Experience"
+  awards: "Honors & Awards"
+
+  # News card
+  news: "News"
+
+  # Publication card / list
+  selected_publications: "Selected Recent Publications"
+  # Home page card heading. Includes the icon so it matches the other cards.
+  publications_card_title: '<i class="fas fa-star"></i> Publications'
+  view_all: "view all"
+  all_publications: "All publications"
+
+  # Author list footnotes
+  equal_contribution: "equal contribution"
+  corresponding_author: "corresponding author"
+
+  # Professional activities card
+  professional_activities: "Professional Activities"
+  journal_reviews: "Journal Reviews"
+  conference_reviews: "Conference Reviews"
+
+  # Misc card
+  life_beyond_ai: "Life Beyond AI"
+
+  # Footer
+  last_updated: "Last updated:"
+
+  # strftime formats
+  date_format_month: "%b %Y"
+  date_format_day: "%b %d"
+
+zh:
+  html_lang: "zh-Hans"
+
+  menu: "菜单"
+  lang_switch_label: "语言"
+  lang_en: "English"
+  lang_zh: "中文"
+
+  curriculum_vitae: "个人简历"
+  google_scholar: "Google Scholar"
+  github: "GitHub"
+  wechat: "微信"
+  twitter: "Twitter"
+  linkedin: "LinkedIn"
+  orcid: "ORCID"
+  portrait_alt: "照片"
+  close: "关闭"
+
+  education: "教育经历"
+  experience: "科研经历"
+  awards: "荣誉与奖项"
+
+  news: "近期动态"
+
+  selected_publications: "代表性成果"
+  publications_card_title: '<i class="fas fa-star"></i> 学术成果'
+  view_all: "查看全部"
+  all_publications: "全部成果"
+
+  equal_contribution: "同等贡献"
+  corresponding_author: "通讯作者"
+
+  professional_activities: "学术服务"
+  journal_reviews: "期刊审稿"
+  conference_reviews: "会议审稿"
+
+  life_beyond_ai: "科研之外"
+
+  last_updated: "最后更新："
+
+  date_format_month: "%Y 年 %m 月"
+  date_format_day: "%m 月 %d 日"

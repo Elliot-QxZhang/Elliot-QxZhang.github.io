@@ -1,17 +1,55 @@
+{%- assign lang = page.lang | default: 'en' -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- comment -%}
+    Language-independent path of the current page, used to build both language
+    URLs so that switching language keeps the reader on the same page.
+{%- endcomment -%}
+{%- assign base_path = page.url | remove_first: '/zh' -%}
+{%- if base_path == '' -%}{%- assign base_path = '/' -%}{%- endif -%}
+{%- assign en_url = base_path -%}
+{%- if base_path == '/' -%}
+    {%- assign zh_url = '/zh/' -%}
+{%- else -%}
+    {%- assign zh_url = base_path | prepend: '/zh' -%}
+{%- endif -%}
+{%- comment -%}
+    Pages without a translated counterpart (e.g. /showcase) would otherwise link
+    to a 404. Fall back to that language's home page instead.
+{%- endcomment -%}
+{%- if page.translated == false -%}
+    {%- if lang == 'en' -%}{%- assign zh_url = '/zh/' -%}
+    {%- else -%}{%- assign en_url = '/' -%}{%- endif -%}
+{%- endif -%}
 <nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top mb-5 shadow-sm">
     <div class="{% if page.container_class %}{{ page.container_class }}{% else %}container-lg{% endif %}">
         <a class="navbar-brand"><strong>{{site.data.profile.navbar_name}}</strong></a>
         <button class="navbar-toggler" style="font-size: 1em; padding: 0.5em;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-            <i class="fas fa-map"></i> Menu
+            <i class="fas fa-map"></i> {{ t.menu }}
         </button>
 
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 {% for item in site.data.navigation.pages %}
-                <li class="nav-item {% if item.name == page.navbar_title %}active{% endif %}">
-                    <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.name }}</a>
+                {%- if lang == 'en' -%}
+                    {%- assign item_url = item.url -%}
+                {%- elsif item.url == '/' -%}
+                    {%- assign item_url = '/zh/' -%}
+                {%- else -%}
+                    {%- assign item_url = item.url | prepend: '/zh' -%}
+                {%- endif -%}
+                <li class="nav-item {% if item.key == page.navbar_key %}active{% endif %}">
+                    <a class="nav-link" href="{{ item_url | relative_url }}">{{ item.label[lang] | default: item.label.en }}</a>
                 </li>
                 {% endfor %}
+                <li class="nav-item lang-switcher" role="group" aria-label="{{ t.lang_switch_label }}">
+                    <a class="nav-link d-inline-block{% if lang == 'en' %} lang-current{% endif %}"
+                       href="{{ en_url | relative_url }}"
+                       lang="en" hreflang="en"
+                       {% if lang == 'en' %}aria-current="true"{% endif %}>{{ t.lang_en }}</a><span class="lang-sep" aria-hidden="true">/</span><a class="nav-link d-inline-block{% if lang == 'zh' %} lang-current{% endif %}"
+                       href="{{ zh_url | relative_url }}"
+                       lang="zh-Hans" hreflang="zh-Hans"
+                       {% if lang == 'zh' %}aria-current="true"{% endif %}>{{ t.lang_zh }}</a>
+                </li>
             </ul>
         </div>
     </div>

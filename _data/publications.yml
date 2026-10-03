@@ -1,0 +1,351 @@
+# Publications.
+#
+# Order in this file does not matter -- templates sort by `date` descending and
+# group by year on the /publications page.
+#
+# Fields:
+#   title      Paper title. Kept in English on both language versions, since a
+#              paper title is a citable identifier.
+#   date       Drives sort order and the year grouping.
+#   selected   true -> also shown in the "Selected Publications" card on the home page.
+#   pub        Venue. Proper noun, shared across languages.
+#   pub_pre    Optional text before the venue (e.g. "Submitted to ").
+#   pub_post   Optional text after the venue.
+#   pub_last   Optional raw HTML appended after the links (topic badges, star shields).
+#   pub_date   Year shown next to the venue.
+#   cover      Cover image path. Omit to fall back to a generated visual hash.
+#   authors    List of names; keys into _data/authors.yml. Trailing "*" marks equal
+#              contribution, trailing "#" marks corresponding author.
+#   links      Label -> URL. Omit a label entirely rather than leaving it empty.
+#   abstract   Optional. Translated, so it takes `en` / `zh` sub-keys.
+
+- title:    "Towards generalizable pathology reports via a multimodal LLM with the multicenter in-context learning"
+  date:     2026-06-26 00:01:00 +0800
+  selected: true
+  pub:      'Medical Image Analysis (MedIA) <span class="badge badge-info">SCI Q1</span>'
+  pub_last: ' <span class="badge badge-pill badge-primary badge-publication">WSI Analysis</span> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/WSI-MLLM?style=social">'
+  pub_date: "2026"
+  cover:    /assets/images/covers/WSI_MLLM.png
+  authors:
+    - Yi LI
+    - Zhihao LIN
+    - <b>Qixiang ZHANG*</b>
+    - Xinpeng DING
+    - Honglong YANG
+    - Linjing PIN
+    - Wei YUAN
+    - Yongqin WEN
+    - Lingliang GUO
+    - Qingling ZHANG
+    - Xiaomeng LI
+  links:
+    Paper: https://www.sciencedirect.com/science/article/pii/S1361841526001283
+    Code: https://github.com/xmed-lab/WSI-MLLM
+
+- title:    "PathoArgus: Advancing Evidence-Grounded Long-Context Visual Reasoning across Gigapixel Whole-Slide and Multi-Slide Case Contexts"
+  date:     2026-08-27 00:01:00 +0800
+  selected: true
+  pub:      'Under Review'
+  pub_last: ' <span class="badge badge-pill badge-primary badge-publication">WSI Analysis</span> <span class="badge badge-pill badge-warning badge-publication">Benchmark</span> <span class="badge badge-pill badge-secondary badge-publication">MLLM</span>'
+  pub_date: "2026"
+  cover:    /assets/images/covers/pathoargus.png
+  authors:
+    - Bowen LIU
+    - <b>Qixiang ZHANG*</b>
+    - Xiaomeng LI
+  links:
+    Preprint: https://arxiv.org/abs/2608.17607
+
+- title:    "KHiM-Mamba: Injecting Pathology Knowledge into Mamba via Hidden-State Modulation for Whole Slide Image Analysis"
+  date:     2026-08-25 00:01:00 +0800
+  selected: true
+  pub:      'Under Review'
+  pub_last: ' <span class="badge badge-pill badge-primary badge-publication">WSI Analysis</span> '
+  pub_date: "2026"
+  cover:    /assets/images/covers/KHiM-Mamba.png
+  authors:
+    - <b>Qixiang ZHANG*</b>
+    - Yi LI
+    - Tianqi XIANG
+    - Haonan WANG
+    - Mengjiao WEI
+    - Bo XU
+    - Xiaomeng LI
+  links:
+    Preprint: https://arxiv.org/abs/2608.14757
+
+- title:    "PRET is a few-shot system for pan-cancer recognition without example training"
+  date:     2026-05-01 00:01:00 +0800
+  selected: true
+  pub:      'Nature Cancer <span class="badge badge-info">SCI Q1</span>'
+  pub_last: ' <span class="badge badge-pill badge-primary badge-publication">WSI Analysis</span> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/PRET?style=social">'
+  pub_date: "2026"
+  cover:    /assets/images/covers/pret.png
+  abstract:
+    en: >-
+      ...In this paper, we introduce a novel paradigm, Pan-cancer Recognition via Examples without Training (PRET). The proposed PRET learns from a few examples during the inference phase without model fine-tuning, offering a flexible, scalable, and effective solution to recognize cancers across diverse organs, hospitals, and tasks using a single model only. Through extensive evaluations across international hospitals and diverse benchmarks, our method outperforms existing approaches across 20 tasks, achieving performances over 97% on 15 benchmarks at a maximum improvement of 36.76%...
+    zh: >-
+      ……本文提出了一种新范式——无需训练的示例驱动泛癌识别（Pan-cancer Recognition via Examples without Training, PRET）。PRET 在推理阶段从少量示例中学习，无需对模型进行微调，仅用单一模型即可灵活、可扩展且有效地识别不同器官、不同医院与不同任务中的癌症。在跨国际医院与多种基准的大量评测中，我们的方法在 20 项任务上超越了现有方法，在 15 个基准上取得了超过 97% 的性能，最大提升达 36.76%……
+  authors:
+    - Yi Li
+    - Ziyu Ning
+    - Tianqi Xiang
+    - <b>Qixiang Zhang</b>
+    - Yi Min
+    - Zhihao Lin
+    - Feiyan Feng
+    - Baozhen Zeng
+    - Xuexia Qian
+    - Lu Sun
+    - Jiace Qin
+    - Ling Xiang
+    - Chao Fan
+    - Tian Qin
+    - Qian Wang
+    - Xiu-Wu Bian
+    - Qingling Zhang
+    - Xiaomeng Li
+  links:
+    Paper: https://www.nature.com/articles/s43018-026-01141-2
+    Codes: https://github.com/xmed-lab/PRET
+
+- title:    "A Cognitive Process-Inspired Architecture for Subject-Agnostic Brain Visual Decoding"
+  date:     2026-01-26 00:01:00 +0800
+  selected: true
+  pub:      'International Conference of Learning Representations (ICLR) <span class="badge badge-info">CCF-A</span>'
+  pub_last: ' <span class="badge badge-pill badge badge-publication badge-dark">AI for Neural Science</span> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/VCFLOW?style=social">'
+  pub_date: "2026"
+  cover:    /assets/images/covers/VFCflow.jpg
+  authors:
+    - Jingyu LU
+    - Haonan WANG
+    - <b>Qixiang ZHANG*</b>
+    - Xiaomeng LI
+  links:
+    Preprint: https://arxiv.org/abs/2511.02565
+    Code: https://github.com/xmed-lab/VCFLOW
+
+- title:    "Read like a Pathologist: Enhancing Mamba with Pyramid Router for Whole Slide Image Analysis"
+  date:     2025-05-21 00:01:01 +0800
+  selected: true
+  pub:      "Under review"
+  pub_last: ' <span class="badge badge-pill badge-primary badge-publication">WSI Analysis</span>'
+  pub_date: "2025"
+  cover:    /assets/images/covers/ppm.png
+  authors:
+    - <b>Qixiang ZHANG</b>
+    - Yi LI
+    - Tianqi XIANG
+    - Haonan WANG
+    - Xiaomeng LI
+
+- title:    "S&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation"
+  date:     2025-05-21 00:01:00 +0800
+  selected: true
+  pub:      'IEEE Transactions on Medical Image (TMI) <span class="badge badge-info">JCR Q1</span>'
+  pub_pre:  ""
+  pub_post: '.'
+  pub_last: ' <span class="badge badge-pill badge-success badge-publication">Segmentation</span> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/sd-messenger?style=social">'
+  pub_date: "2025"
+  cover:    /assets/images/covers/sd_messenger.png
+  authors:
+    - <b>Qixiang ZHANG</b>*
+    - Haonan WANG*
+    - Yi LI
+    - Xiaomeng LI
+  links:
+    Paper: https://ieeexplore.ieee.org/document/11021664
+    Code: https://github.com/xmed-lab/SD-Messenger
+
+- title:    "Neurons: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction"
+  date:     2025-05-12 00:01:00 +0800
+  selected: true
+  pub:      'International Conference of Computer Vision (ICCV) <span class="badge badge-info">CCF-A</span>'
+  pub_last: ' <span class="badge badge-pill badge badge-publication badge-dark">AI for Neural Science</span> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/NEURONS?style=social">'
+  pub_date: "2025"
+  cover:    /assets/images/covers/neurons.png
+  authors:
+    - Haonan WANG*
+    - <b>Qixiang ZHANG*</b>
+    - Lehan WANG
+    - Xuanqi HUANG
+    - Xiaomeng LI
+  links:
+    Preprint: https://arxiv.org/abs/2503.11167
+    Code: https://github.com/xmed-lab/NEURONS
+
+- title:    "UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation"
+  date:     2025-05-12 00:01:00 +0800
+  selected: true
+  pub:      'Submitted to Annual Conference on Neural Information Processing Systems (NeurIPS)'
+  pub_last: ' <span class="badge badge-pill badge-warning badge-publication">Benchmark</span> <span class="badge badge-pill badge-secondary badge-publication">MLLM</span> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/UniEval?style=social">'
+  pub_date: "2025"
+  cover:    /assets/images/covers/unieval.png
+  authors:
+    - Yi LI
+    - Haonan Wang
+    - <b>Qixiang Zhang</b>
+    - Boyu Xiao
+    - Chenchang Hu
+    - Hualiang Wang
+    - Xiaomeng Li
+  links:
+    Preprint: https://arxiv.org/pdf/2505.10483
+    Code: https://xmed-lab.github.io/UniEval/
+
+- title:    "MOC: Meta-Optimized Classifier for Few-Shot Whole Slide Image Classification"
+  date:     2025-05-10 00:01:00 +0800
+  selected: true
+  pub:      "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)"
+  pub_last: ' <span class="badge badge-pill badge-primary badge-publication">WSI Analysis</span>'
+  pub_date: "2025"
+  cover:    /assets/images/covers/moc.png
+  authors:
+    - Tianqi XIANG
+    - Yi LI
+    - <b>Qixiang ZHANG</b>
+    - Haonan WANG
+    - Xiaomeng LI
+  links:
+    Paper: https://arxiv.org/pdf/2508.09967
+    Code: https://github.com/xmed-lab/MOC
+
+- title:    "Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant"
+  date:     2025-05-01 00:01:00 +0800
+  selected: true
+  pub:      "Nature Communication"
+  pub_pre:  "Submitted to "
+  pub_post: ' Under Review.'
+  pub_last: ' <span class="badge badge-pill badge-success badge-publication">Segmentation</span><span class="badge badge-pill badge-secondary badge-publication">MLLM</span>'
+  pub_date: "2025"
+  cover:    /assets/images/covers/rc_med.png
+  abstract:
+    en: >-
+      ...we propose RCMed, a full-stack AI assistant enhancing multimodal alignment in both input & output, enabling precise anatomical delineation, accurate localization, and reliable diagnosis for clinicians through hierarchical vision-language grounding. Trained on a 20M images-mask-description triplets dataset, RCMed achieves SOTA precision in contextualizing irregular lesions and subtle anatomical boundaries, excelling across 165 clinical tasks with 9 different modalities...
+    zh: >-
+      ……我们提出 RCMed，一个在输入与输出两端同时强化多模态对齐的全栈式 AI 助手，通过层次化的视觉—语言接地，为临床医生提供精确的解剖结构勾画、准确的定位与可靠的诊断。RCMed 在包含 2000 万组「图像—掩膜—描述」三元组的数据集上训练，在刻画不规则病灶与细微解剖边界方面达到当前最优精度，并在涵盖 9 种模态的 165 项临床任务中表现优异……
+  authors:
+    - Haonan Wang
+    - Jiaji Mao
+    - Lehan Wang
+    - <b>Qixiang Zhang</b>
+    - Marawan Elbatel
+    - Yi Qin
+    - Huijun Hu
+    - Baoxun Li
+    - Wenhui Deng
+    - Weifeng Qin
+    - Hongrui Li
+    - Jialin Liang
+    - Jun Shen
+    - Xiaomeng Li
+  links:
+    Preprint: https://arxiv.org/abs/2505.03380
+    Demo: https://xmed-lab.github.io/RCMed/
+
+- title:    "Multi-Modal Explainable Medical AI Assistant for Trustworthy Human-AI Collaboration"
+  date:     2025-05-01 00:01:00 +0800
+  selected: true
+  pub:      "Under Review"
+  pub_last: ' <span class="badge badge-pill badge-secondary badge-publication">MLLM</span> <span class="badge badge-pill badge-warning badge-publication">Benchmark</span>'
+  pub_date: "2025"
+  cover:    /assets/images/covers/xmedgpt.png
+  abstract:
+    en: >-
+      Generalist Medical AI systems have demonstrated expert-level performance in biomedical perception tasks, yet their clinical utility remains limited by inadequate multi-modal explainability and suboptimal prognostic capabilities. Here, we present XMedGPT, a clinician-centric, multi-modal AI assistant that integrates textual and visual interpretability to support transparent and trustworthy medical decision-making. XMedGPT not only produces accurate diagnostic and descriptive outputs, but also grounds referenced anatomical sites within medical images, bridging critical gaps in interpretability and enhancing clinician usability. The model achieves an Intersection over Union of 0.703 across 141 anatomical regions, and a Kendall’s tau-b of 0.479, demonstrating strong alignment between visual rationales and clinical outcomes. In survival and recurrence prediction, it surpasses prior leading models by 26.9%...
+    zh: >-
+      通用医学 AI 系统已在生物医学感知任务中展现出专家级性能，但其临床实用性仍受限于多模态可解释性不足与预后能力欠佳。为此，我们提出 XMedGPT——一个以临床医生为中心的多模态 AI 助手，融合文本与视觉可解释性，以支持透明、可信的医疗决策。XMedGPT 不仅能生成准确的诊断与描述性输出，还能将所引用的解剖部位在医学图像中进行定位接地，弥补了可解释性上的关键缺口并提升了临床可用性。该模型在 141 个解剖区域上取得 0.703 的交并比（IoU），Kendall’s tau-b 达到 0.479，表明视觉依据与临床结局之间具有很强的一致性。在生存期与复发预测任务中，其性能超越此前领先模型 26.9%……
+  authors:
+    - Honglong Yang
+    - Shanshan Song
+    - Yi Qin
+    - Lehan Wang
+    - Haonan Wang
+    - Xinpeng Ding
+    - <b>Qixiang Zhang</b>
+    - Bodong Du
+    - Xiaomeng Li
+  links:
+    Preprint: https://arxiv.org/abs/2505.06898
+
+- title:    "GlandSAM: Injecting Morphology Knowledge into Segment Anything Model for Label-free Gland Segmentation"
+  date:     2024-09-05 00:01:00 +0800
+  selected: true
+  pub:      'IEEE Transactions on Medical Image (TMI) <span class="badge badge-info">JCR Q1</span>'
+  pub_last: ' <span class="badge badge-pill badge-publication badge-success">Segmentation</span>'
+  pub_date: "2024"
+  cover:    /assets/images/covers/glandsam.png
+  authors:
+    - <b>Qixiang ZHANG</b>
+    - Yi LI
+    - Cheng XUE
+    - Haonan WANG
+    - Xiaomeng LI
+  links:
+    Paper: https://ieeexplore.ieee.org/abstract/document/10707661/
+    Code: https://github.com/xmed-lab/MSSG
+
+- title:    "AllSpark: Reborn labeled features from unlabeled in transformer for semi-supervised semantic segmentation"
+  date:     2024-05-12 00:01:01 +0800
+  selected: true
+  pub:      'Conference on Computer Vision and Pattern Recognition (CVPR) <span class="badge badge-info">CCF-A</span>'
+  pub_last: ' <span class="badge badge-pill badge-publication badge-success">Segmentation</span> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xmed-lab/AllSpark?style=social">'
+  pub_date: "2024"
+  cover:    /assets/images/covers/allspark.png
+  authors:
+    - Haonan WANG*
+    - <b>Qixiang ZHANG*</b>
+    - Yi LI
+    - Xiaomeng LI
+  links:
+    Paper: https://arxiv.org/abs/2403.01818
+    Code: https://github.com/xmed-lab/AllSpark
+
+- title:    "Few-Shot Lymph Node Metastasis Classification Meets High Performance on Whole Slide Images via the Informative Non-parametric Classifier"
+  date:     2024-05-12 00:01:00 +0800
+  selected: true
+  pub:      "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)"
+  pub_last: ' <span class="badge badge-pill badge-primary badge-publication">WSI Analysis</span>'
+  pub_date: "2024"
+  cover:    /assets/images/covers/MIP.png
+  authors:
+    - Yi LI
+    - <b>Qixiang ZHANG</b>
+    - Tianqi XIANG
+    - Xiaomeng LI
+  links:
+    Paper: https://link.springer.com/chapter/10.1007/978-3-031-72390-2_11
+    Code: https://github.com/xmed-lab/INC
+
+- title:    "Morphology-inspired unsupervised gland segmentation via selective semantic grouping"
+  date:     2023-09-05 00:01:00 +0800
+  selected: true
+  pub:      "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)"
+  pub_last: ' <span class="badge badge-pill badge-publication badge-success">Segmentation</span>'
+  pub_date: "2023"
+  cover:    /assets/images/covers/mssg.png
+  authors:
+    - <b>Qixiang ZHANG</b>
+    - Yi LI
+    - Xiaomeng LI
+  links:
+    Paper: https://link.springer.com/chapter/10.1007/978-3-031-43901-8_27
+    Code: https://github.com/xmed-lab/MSSG
+
+- title:    "Dual Teacher Sample Consistency Framework for Semi-Supervised Medical Image Classification"
+  date:     2023-09-01 00:01:00 +0800
+  selected: true
+  pub:      "IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)"
+  pub_last: ' <span class="badge badge-pill badge-publication badge-success">Segmentation</span>'
+  pub_date: "2023"
+  cover:    /assets/images/covers/dt_sc.png
+  authors:
+    - <b>Qixiang Zhang</b>
+    - Yuxiang Yang
+    - Chen Zu
+    - Jianjia Zhang
+    - Xi Wu
+    - Jiliu Zhou
+    - Yan Wang
+  links:
+    Paper: https://arxiv.org/abs/2411.03041

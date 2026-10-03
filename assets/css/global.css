@@ -67,3 +67,38 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+
+/* Language switcher in the navbar. Scoped so it cannot affect the Bootstrap
+   navbar or the year sidebar on the publications page, which share .nav-link. */
+.lang-switcher {
+    display: flex;
+    align-items: center;
+}
+
+.lang-switcher .nav-link {
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+}
+
+.lang-switcher .lang-sep {
+    color: rgba(0, 0, 0, 0.3);
+    user-select: none;
+}
+
+/* Current language: bolder and full contrast, so it is distinguishable without
+   relying on colour alone. */
+.lang-switcher .lang-current {
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.9);
+}
+
+@media (max-width: 575.98px) {
+    /* Collapsed menu: align with the stacked nav items above it. */
+    .lang-switcher {
+        padding-top: 0.25rem;
+    }
+
+    .lang-switcher .nav-link:first-of-type {
+        padding-left: 0;
+    }
+}
