@@ -15,8 +15,8 @@ navbar_name:
 positions:
 - logo: /assets/images/badges/hkust_logo.jpg  # Logo is optional
   name:
-    en: Ph.D. at HKUST (Graduated)
-    zh: 香港科技大学博士研究生
+    en: Ph.D. at HKU (Graduated)
+    zh: 香港科技大学博士
 
 email: "elliot.zhang@connect.ust.hk"
 cv_link: /assets/CV.pdf
@@ -32,14 +32,14 @@ short_bio_text_justify: false
 short_bio:
   en: >-
     <p>
-      I am a Year-4 Ph.D. candidate (Graduated) at The Hong Kong University of Science and Technology (HKUST) under the supervision of <a href="https://xmengli.github.io/" target="_blank">Prof. Xiaomeng LI</a>. My research lies in the interdisciplinary areas of artificial intelligence and medical image analysis, aiming at advancing healthcare with machine intelligence. Specifically, I am currently working on advancing Neural Science with AI solutions.
+      I am a Ph.D. (Graduated) at The Hong Kong University of Science and Technology (HKUST) under the supervision of <a href="https://xmengli.github.io/" target="_blank">Prof. Xiaomeng LI</a>. My research lies in the interdisciplinary areas of artificial intelligence and medical image analysis, aiming at advancing healthcare with machine intelligence. Specifically, I am currently working on advancing Neural Science with AI solutions.
     </p>
     <p>
       Previously, I received B.Eng degree in Software Engineering at Sichuan University, and closely collaborated with <a href="https://cs.scu.edu.cn/info/1075/8235.htm" target="_blank">Prof. Yan Wang</a> as an undergraduate research intern.
     </p>
   zh: >-
     <p>
-      我是香港科技大学（HKUST）博士四年级研究生，师从<a href="https://xmengli.github.io/" target="_blank">李小萌教授（Prof. Xiaomeng LI）</a>。我的研究处于人工智能与医学图像分析的交叉领域，致力于用机器智能推动医疗健康的发展。目前，我主要研究用 AI 方法推进神经科学（Neural Science）。
+      我是香港科技大学（HKUST）博士，师从<a href="https://xmengli.github.io/" target="_blank">李小萌教授（Prof. Xiaomeng LI）</a>。我的研究处于人工智能与医学图像分析的交叉领域，致力于用机器智能推动医疗健康的发展。目前，我主要研究用 AI 方法推进神经科学（Neural Science）。
     </p>
     <p>
       此前，我在四川大学获得软件工程学士学位，并作为本科科研实习生与<a href="https://cs.scu.edu.cn/info/1075/8235.htm" target="_blank">王艳教授（Prof. Yan Wang）</a>密切合作。
